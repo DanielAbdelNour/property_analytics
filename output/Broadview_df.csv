@@ -1,0 +1,651 @@
+"street","sale_price","sale_date","area","eq_area","atts","beds","baths","car_space","garage","ensuite"
+"Alfred Street Broadview SA 5083",189000,2003-04-15,719,94,"",0,0,0,0,0
+"Alfred Street Broadview SA 5083",348000,2011-05-20,714,91," 2 Beds, 1 Baths, 1 Lock Up Garages",2,1,0,1,0
+"Beaven Avenue Broadview SA 5083",250000,2003-12-18,704,94," 2 Beds, 1 Baths, 1 Car Spaces, 1 Ensuites",2,1,1,0,1
+"Beaven Avenue Broadview SA 5083",510000,2009-12-15,314,190," 4 Beds, 2 Baths, 2 Lock Up Garages, 2 Ensuites",4,2,0,2,2
+"Beaven Avenue Broadview SA 5083",255000,2004-02-20,710,106," 3 Beds, 1 Lock Up Garages",3,0,0,1,0
+"Beaven Avenue Broadview SA 5083",382000,2010-10-27,712,121," 3 Beds, 1 Baths, 3 Lock Up Garages",3,1,0,3,0
+"Beaven Avenue Broadview SA 5083",195000,2002-06-21,654,122," 4 Beds, 1 Car Spaces, 1 Lock Up Garages",4,0,1,1,0
+"Beaven Avenue Broadview SA 5083",280000,2004-03-19,722,152," 4 Beds, 2 Baths, 1 Lock Up Garages",4,2,0,1,0
+"Beaven Avenue Broadview SA 5083",303000,2006-07-31,717,141," 3 Beds, 1 Baths, 1 Car Spaces",3,1,1,0,0
+"Beaven Avenue Broadview SA 5083",277750,2008-10-22,153,71," 2 Beds, 1 Baths, 2 Car Spaces, 1 Lock Up Garages",2,1,2,1,0
+"Beaven Avenue Broadview SA 5083",256000,2005-09-15,694,133," 3 Beds, 1 Baths, 2 Car Spaces",3,1,2,0,0
+"Beaven Avenue Broadview SA 5083",140000,2003-01-07,707,149," 3 Beds, 1 Baths",3,1,0,0,0
+"Beaven Avenue Broadview SA 5083",355000,2012-06-21,708,92," 3 Beds, 1 Baths, 3 Car Spaces, 1 Lock Up Garages",3,1,3,1,0
+"Beaven Avenue Broadview SA 5083",266000,2007-01-03,383,107," 3 Beds",3,0,0,0,0
+"Beryl Street Broadview SA 5083",411000,2006-04-07,374,162," 3 Beds, 2 Baths, 2 Lock Up Garages, 1 Ensuites",3,2,0,2,1
+"Beryl Street Broadview SA 5083",415000,2006-02-24,442,209," 3 Beds, 2 Baths, 1 Car Spaces, 1 Lock Up Garages, 1 Ensuites",3,2,1,1,1
+"Beryl Street Broadview SA 5083",285000,2002-06-28,883,143," 3 Beds",3,0,0,0,0
+"Blamey Avenue Broadview SA 5083",755000,2012-09-24,315,251," 5 Beds, 2 Baths, 2 Car Spaces, 2 Lock Up Garages, 2 Ensuites",5,2,2,2,2
+"Blamey Avenue Broadview SA 5083",418000,2012-05-26,419,137," 3 Beds, 1 Baths, 1 Car Spaces",3,1,1,0,0
+"Blamey Avenue Broadview SA 5083",691000,2009-12-11,1349,137," 3 Beds, 1 Baths, 1 Car Spaces, 2 Lock Up Garages, 1 Ensuites",3,1,1,2,1
+"Blamey Avenue Broadview SA 5083",275000,2006-02-27,688,118," 3 Beds, 1 Baths, 4 Car Spaces",3,1,4,0,0
+"Blamey Avenue Broadview SA 5083",350000,2012-09-20,678,139," 3 Beds, 1 Baths, 2 Car Spaces, 1 Lock Up Garages",3,1,2,1,0
+"Blamey Avenue Broadview SA 5083",150000,2002-02-25,NA,123," 3 Beds, 1 Baths, 1 Car Spaces, 1 Lock Up Garages",3,1,1,1,0
+"Blamey Avenue Broadview SA 5083",175000,2005-06-08,336,84," 3 Beds, 1 Baths, 2 Car Spaces, 2 Lock Up Garages",3,1,2,2,0
+"Blamey Avenue Broadview SA 5083",145000,2003-03-17,638,94," 3 Beds, 1 Baths, 1 Car Spaces, 1 Lock Up Garages",3,1,1,1,0
+"Blamey Avenue Broadview SA 5083",265000,2007-09-24,514,83," 3 Beds, 1 Baths, 2 Car Spaces, 2 Lock Up Garages",3,1,2,2,0
+"Blyth Street Broadview SA 5083",237000,2005-03-14,819,90," 3 Beds, 1 Baths, 1 Car Spaces",3,1,1,0,0
+"Blyth Street Broadview SA 5083",270000,2007-03-16,827,92," 3 Beds, 2 Baths, 1 Lock Up Garages, 1 Ensuites",3,2,0,1,1
+"Blyth Street Broadview SA 5083",415000,2011-10-12,317,129," 1 Ensuites",0,0,0,0,1
+"Blyth Street Broadview SA 5083",275000,2006-08-10,219,116," 1 Ensuites",0,0,0,0,1
+"Blyth Street Broadview SA 5083",365000,2011-02-24,219,116," 2 Beds, 1 Baths, 1 Car Spaces, 1 Lock Up Garages, 1 Ensuites",2,1,1,1,1
+"Bridges Street Broadview SA 5083",187500,2004-04-13,392,82," 2 Beds, 1 Baths, 1 Car Spaces",2,1,1,0,0
+"Bridges Street Broadview SA 5083",310000,2006-10-26,319,106," 3 Beds, 1 Baths, 1 Car Spaces, 1 Lock Up Garages",3,1,1,1,0
+"Bridges Street Broadview SA 5083",290250,2005-03-30,558,107," 2 Beds, 1 Baths",2,1,0,0,0
+"Bridges Street Broadview SA 5083",240000,2007-09-26,761,87," 2 Beds, 1 Baths, 1 Car Spaces",2,1,1,0,0
+"Bridges Street Broadview SA 5083",235000,2002-11-29,668,100," 4 Beds, 2 Baths, 2 Car Spaces",4,2,2,0,0
+"Bridges Street Broadview SA 5083",175000,2001-07-13,714,134," 3 Beds, 2 Baths, 1 Lock Up Garages, 1 Ensuites",3,2,0,1,1
+"Brooke Street Broadview SA 5083",557500,2009-08-14,890,141," 3 Beds, 2 Baths, 2 Car Spaces, 2 Lock Up Garages, 1 Ensuites",3,2,2,2,1
+"Brooke Street Broadview SA 5083",460000,2005-05-02,454,171," 3 Beds, 2 Baths, 4 Car Spaces, 1 Ensuites",3,2,4,0,1
+"Brooke Street Broadview SA 5083",505000,2011-06-14,751,121," 3 Beds, 1 Baths, 1 Car Spaces, 1 Lock Up Garages",3,1,1,1,0
+"Brooke Street Broadview SA 5083",235000,2005-02-21,432,99," 3 Beds, 2 Baths, 2 Car Spaces, 1 Lock Up Garages, 1 Ensuites",3,2,2,1,1
+"Brooke Street Broadview SA 5083",390000,2007-12-20,373,127," 3 Beds, 1 Baths, 1 Car Spaces, 1 Lock Up Garages",3,1,1,1,0
+"Brooke Street Broadview SA 5083",640000,2007-11-01,954,156," 4 Beds, 2 Baths, 2 Car Spaces, 4 Lock Up Garages",4,2,2,4,0
+"Brooke Street Broadview SA 5083",585000,2005-05-05,1073,208," 3 Beds, 2 Baths, 2 Car Spaces, 2 Lock Up Garages",3,2,2,2,0
+"Brooke Street Broadview SA 5083",455000,2012-07-30,396,126," 3 Beds, 1 Baths, 2 Car Spaces",3,1,2,0,0
+"Brooke Street Broadview SA 5083",268500,2002-05-27,702,182," 4 Beds, 2 Baths",4,2,0,0,0
+"Bruce Street Broadview SA 5083",497500,2010-04-01,880,192," 4 Beds, 2 Baths, 1 Car Spaces, 1 Lock Up Garages",4,2,1,1,0
+"Bruce Street Broadview SA 5083",569000,2011-03-30,929,164," 5 Beds, 2 Baths, 2 Lock Up Garages, 1 Ensuites",5,2,0,2,1
+"Bruce Street Broadview SA 5083",325000,2004-07-29,862,118," 3 Beds, 1 Baths, 1 Car Spaces, 1 Lock Up Garages",3,1,1,1,0
+"Bruce Street Broadview SA 5083",670000,2011-02-22,948,223," 4 Beds, 2 Baths, 1 Car Spaces, 2 Lock Up Garages, 2 Ensuites",4,2,1,2,2
+"Bruce Street Broadview SA 5083",520000,2012-08-30,462,215," 4 Beds, 2 Baths, 1 Lock Up Garages, 2 Ensuites",4,2,0,1,2
+"Bruce Street Broadview SA 5083",505000,2010-05-14,921,130," 3 Beds, 1 Baths, 1 Car Spaces, 1 Lock Up Garages",3,1,1,1,0
+"Bruce Street Broadview SA 5083",795000,2010-12-22,798,252," 4 Beds, 2 Baths, 2 Car Spaces, 2 Lock Up Garages, 2 Ensuites",4,2,2,2,2
+"Brussels Street Broadview SA 5083",320000,2005-03-10,705,108," 2 Beds, 1 Baths, 1 Car Spaces, 1 Lock Up Garages",2,1,1,1,0
+"Brussels Street Broadview SA 5083",295500,2004-11-25,650,125," 3 Beds, 1 Baths",3,1,0,0,0
+"Brussels Street Broadview SA 5083",175000,2008-05-02,551,134,"",0,0,0,0,0
+"Brussels Street Broadview SA 5083",405000,2009-05-20,668,128," 3 Beds, 2 Baths, 2 Car Spaces, 1 Lock Up Garages, 1 Ensuites",3,2,2,1,1
+"Brussels Street Broadview SA 5083",168500,2000-11-21,436,101," 3 Beds, 1 Baths, 1 Car Spaces, 1 Lock Up Garages",3,1,1,1,0
+"Brussels Street Broadview SA 5083",461000,2011-03-17,436,105," 3 Beds, 1 Baths, 2 Car Spaces",3,1,2,0,0
+"Brussels Street Broadview SA 5083",435000,2009-06-02,529,139," 3 Beds, 1 Baths, 1 Car Spaces, 2 Lock Up Garages",3,1,1,2,0
+"Brussels Street Broadview SA 5083",296000,2003-10-07,692,193," 3 Beds",3,0,0,0,0
+"Burgan Street Broadview SA 5083",430000,2012-10-26,701,102,"",0,0,0,0,0
+"Burgan Street Broadview SA 5083",258199,2002-05-09,752,171,"",0,0,0,0,0
+"Burgan Street Broadview SA 5083",400288,2010-03-18,458,139," 3 Beds, 1 Baths, 1 Car Spaces, 1 Lock Up Garages, 1 Ensuites",3,1,1,1,1
+"Collingrove Avenue Broadview SA 5083",415000,2012-10-25,423,101," 2 Beds, 1 Baths, 1 Car Spaces, 1 Lock Up Garages",2,1,1,1,0
+"Collingrove Avenue Broadview SA 5083",405000,2006-04-07,542,176," 4 Beds, 1 Baths, 1 Car Spaces",4,1,1,0,0
+"Collingrove Avenue Broadview SA 5083",485000,2009-10-14,440,166," 3 Beds, 1 Baths, 1 Car Spaces, 1 Ensuites",3,1,1,0,1
+"Collingrove Avenue Broadview SA 5083",5400,2009-06-25,1382,140," 4 Beds, 1 Baths, 1 Car Spaces, 2 Lock Up Garages",4,1,1,2,0
+"Collingrove Avenue Broadview SA 5083",410000,2007-06-22,551,124," 3 Beds, 1 Baths, 1 Car Spaces, 1 Lock Up Garages",3,1,1,1,0
+"Collingrove Avenue Broadview SA 5083",325000,2004-06-04,650,122," 2 Beds, 1 Baths, 1 Lock Up Garages",2,1,0,1,0
+"Collingrove Avenue Broadview SA 5083",350000,2010-10-07,NA,88," 2 Beds, 1 Baths, 2 Car Spaces, 1 Lock Up Garages",2,1,2,1,0
+"Collingrove Avenue Broadview SA 5083",490000,2009-11-27,441,158," 3 Beds, 2 Baths, 3 Car Spaces, 1 Lock Up Garages, 1 Ensuites",3,2,3,1,1
+"Collingrove Avenue Broadview SA 5083",385000,2005-08-17,882,103," 3 Beds, 1 Baths, 1 Car Spaces, 1 Lock Up Garages",3,1,1,1,0
+"Collingrove Avenue Broadview SA 5083",320000,2005-08-17,882,120," 3 Beds, 2 Baths, 1 Car Spaces, 1 Lock Up Garages",3,2,1,1,0
+"Collingrove Avenue Broadview SA 5083",510000,2007-07-06,350,214," 3 Beds, 3 Baths, 2 Car Spaces, 2 Lock Up Garages, 1 Ensuites",3,3,2,2,1
+"Collingrove Avenue Broadview SA 5083",510000,2007-05-11,350,214," 3 Beds, 3 Baths, 2 Car Spaces, 2 Lock Up Garages, 1 Ensuites",3,3,2,2,1
+"Collingrove Avenue Broadview SA 5083",461000,2007-11-12,671,155," 4 Beds, 1 Baths, 2 Car Spaces, 2 Lock Up Garages",4,1,2,2,0
+"Collingrove Avenue Broadview SA 5083",345500,2004-05-19,795,141," 2 Beds, 1 Baths",2,1,0,0,0
+"Collingrove Avenue Broadview SA 5083",420000,2010-09-10,263,112," 3 Beds, 1 Baths, 1 Car Spaces",3,1,1,0,0
+"Collins Street Broadview SA 5083",2550,2007-08-24,939,116," 3 Beds, 2 Baths, 2 Car Spaces, 2 Lock Up Garages",3,2,2,2,0
+"Collins Street Broadview SA 5083",420000,2009-12-30,743,98," 3 Beds, 1 Baths, 1 Car Spaces",3,1,1,0,0
+"Collins Street Broadview SA 5083",155000,2000-04-17,871,116," 3 Beds, 1 Baths, 1 Car Spaces, 1 Lock Up Garages",3,1,1,1,0
+"Collins Street Broadview SA 5083",262107,2004-01-19,900,98," 3 Beds, 1 Baths, 2 Car Spaces, 1 Lock Up Garages",3,1,2,1,0
+"Collins Street Broadview SA 5083",415000,2011-02-24,855,125," 3 Beds, 1 Baths, 1 Car Spaces",3,1,1,0,0
+"Collins Street Broadview SA 5083",512000,2011-02-22,878,228," 4 Beds, 2 Baths, 1 Car Spaces, 2 Lock Up Garages, 1 Ensuites",4,2,1,2,1
+"Collins Street Broadview SA 5083",207000,2006-07-20,692,102," 3 Beds, 1 Baths, 3 Car Spaces, 1 Lock Up Garages",3,1,3,1,0
+"Collins Street Broadview SA 5083",1,2009-11-13,695,102," 3 Beds, 1 Baths, 2 Car Spaces, 1 Lock Up Garages",3,1,2,1,0
+"Collins Street Broadview SA 5083",220000,2006-04-30,824,97,"",0,0,0,0,0
+"Collins Street Broadview SA 5083",83000,2000-03-31,833,114,"",0,0,0,0,0
+"Collins Street Broadview SA 5083",275000,2005-04-06,850,109," 3 Beds, 2 Baths, 1 Lock Up Garages",3,2,0,1,0
+"Collins Street Broadview SA 5083",213000,2005-02-24,406,98," 2 Beds, 1 Baths, 3 Car Spaces",2,1,3,0,0
+"Collins Street Broadview SA 5083",178000,2002-07-19,308,93," 2 Beds, 1 Baths, 1 Car Spaces",2,1,1,0,0
+"Conyingham Street Broadview SA 5083",285000,2010-09-28,602,85," 3 Beds, 1 Baths, 1 Lock Up Garages",3,1,0,1,0
+"Copley Street Broadview SA 5083",370000,2012-04-26,708,125," 3 Beds, 1 Baths, 1 Car Spaces",3,1,1,0,0
+"Copley Street Broadview SA 5083",92500,2004-01-29,721,100," 2 Baths, 1 Lock Up Garages",0,2,0,1,0
+"Copley Street Broadview SA 5083",350000,2009-06-19,712,107," 3 Beds, 2 Baths, 1 Car Spaces, 1 Lock Up Garages",3,2,1,1,0
+"Copley Street Broadview SA 5083",280000,2008-11-27,481,102," 2 Beds, 1 Baths, 2 Car Spaces",2,1,2,0,0
+"Copley Street Broadview SA 5083",341000,2008-08-05,770,102," 2 Beds, 1 Baths, 1 Car Spaces, 1 Lock Up Garages",2,1,1,1,0
+"Craddock Street Broadview SA 5083",570000,2010-07-01,650,132," 3 Beds, 2 Baths, 5 Car Spaces, 1 Ensuites",3,2,5,0,1
+"Craddock Street Broadview SA 5083",520000,2011-11-16,390,184," 4 Beds, 2 Baths, 1 Car Spaces, 1 Lock Up Garages, 1 Ensuites",4,2,1,1,1
+"Craddock Street Broadview SA 5083",517000,2009-10-20,390,184," 3 Beds, 2 Baths, 1 Car Spaces, 1 Lock Up Garages, 1 Ensuites",3,2,1,1,1
+"Craddock Street Broadview SA 5083",446000,2008-03-14,562,147," 3 Beds, 2 Baths, 2 Lock Up Garages, 1 Ensuites",3,2,0,2,1
+"Day Avenue Broadview SA 5083",360000,2011-09-26,433,139," 4 Beds, 2 Baths, 1 Car Spaces",4,2,1,0,0
+"Day Avenue Broadview SA 5083",415000,2012-06-01,728,122," 4 Beds, 1 Baths, 2 Car Spaces, 1 Lock Up Garages",4,1,2,1,0
+"Day Avenue Broadview SA 5083",188500,2003-03-14,713,88," 2 Beds, 1 Baths, 1 Lock Up Garages",2,1,0,1,0
+"Day Avenue Broadview SA 5083",310000,2007-02-22,721,146," 3 Beds, 1 Baths, 2 Lock Up Garages",3,1,0,2,0
+"Erin Street Broadview SA 5083",390000,2004-05-21,670,160," 4 Beds, 2 Baths, 2 Car Spaces, 2 Lock Up Garages, 1 Ensuites",4,2,2,2,1
+"Erin Street Broadview SA 5083",331000,2003-05-14,821,128,"",0,0,0,0,0
+"Erin Street Broadview SA 5083",360000,2007-03-21,819,170," 3 Beds, 2 Baths, 1 Car Spaces",3,2,1,0,0
+"Erin Street Broadview SA 5083",280000,2006-02-16,846,96," 3 Beds, 2 Baths, 2 Car Spaces",3,2,2,0,0
+"Erin Street Broadview SA 5083",272500,2004-12-03,808,139," 3 Beds, 1 Baths, 1 Car Spaces, 1 Lock Up Garages",3,1,1,1,0
+"Erin Street Broadview SA 5083",450000,2009-09-21,594,157," 3 Beds, 2 Baths, 1 Car Spaces, 1 Lock Up Garages, 1 Ensuites",3,2,1,1,1
+"Erin Street Broadview SA 5083",178500,2000-05-29,748,117," 3 Beds, 1 Baths",3,1,0,0,0
+"Erin Street Broadview SA 5083",3e+05,2012-09-20,461,130," 2 Beds, 1 Baths, 2 Car Spaces",2,1,2,0,0
+"Erin Street Broadview SA 5083",167000,2001-07-16,355,130,"",0,0,0,0,0
+"Erin Street Broadview SA 5083",459000,2008-03-17,705,133," 2 Beds, 2 Baths, 1 Car Spaces",2,2,1,0,0
+"Francis Avenue Broadview SA 5083",406000,2012-05-04,680,109," 3 Beds, 1 Baths, 2 Car Spaces, 1 Lock Up Garages",3,1,2,1,0
+"Francis Avenue Broadview SA 5083",410000,2010-10-07,698,98," 2 Beds, 1 Baths, 5 Car Spaces",2,1,5,0,0
+"Francis Avenue Broadview SA 5083",382000,2009-07-24,680,100," 3 Beds, 1 Baths, 2 Car Spaces",3,1,2,0,0
+"Francis Avenue Broadview SA 5083",213645,2003-11-27,711,102," 4 Beds, 2 Baths, 1 Car Spaces, 1 Lock Up Garages, 1 Ensuites",4,2,1,1,1
+"Francis Avenue Broadview SA 5083",120000,2011-06-29,503,211," 3 Beds, 2 Baths, 2 Car Spaces, 2 Ensuites",3,2,2,0,2
+"French Street Broadview SA 5083",510000,2011-08-25,907,212," 4 Beds, 2 Baths, 1 Car Spaces, 1 Lock Up Garages, 1 Ensuites",4,2,1,1,1
+"French Street Broadview SA 5083",445000,2004-04-29,692,250," 5 Beds, 3 Baths, 2 Car Spaces",5,3,2,0,0
+"French Street Broadview SA 5083",450000,2008-07-18,515,116," 3 Beds, 1 Baths, 2 Car Spaces",3,1,2,0,0
+"French Street Broadview SA 5083",265000,2004-06-22,539,92," 3 Beds, 2 Baths, 2 Car Spaces",3,2,2,0,0
+"Galway Avenue Broadview SA 5083",3e+05,2005-04-26,599,112," 3 Beds, 1 Baths, 1 Car Spaces, 1 Lock Up Garages",3,1,1,1,0
+"Galway Avenue Broadview SA 5083",415000,2009-12-15,794,103," 3 Beds, 1 Baths, 1 Lock Up Garages",3,1,0,1,0
+"Galway Avenue Broadview SA 5083",236750,2001-06-05,743,123," 4 Beds, 2 Baths, 3 Car Spaces, 1 Ensuites",4,2,3,0,1
+"Galway Avenue Broadview SA 5083",290000,2000-10-17,1059,140,"",0,0,0,0,0
+"Galway Avenue Broadview SA 5083",205000,2001-12-20,793,122," 2 Beds, 1 Baths, 1 Car Spaces",2,1,1,0,0
+"Galway Avenue Broadview SA 5083",769500,2010-12-15,560,268," 3 Beds, 2 Baths, 2 Car Spaces, 2 Lock Up Garages, 1 Ensuites",3,2,2,2,1
+"Galway Avenue Broadview SA 5083",635000,2007-10-26,1288,169," 3 Beds, 1 Baths, 1 Lock Up Garages",3,1,0,1,0
+"Galway Avenue Broadview SA 5083",288000,2001-10-22,752,253," 3 Beds",3,0,0,0,0
+"Galway Avenue Broadview SA 5083",285000,2006-07-03,410,120," 3 Beds, 1 Baths, 1 Car Spaces, 1 Lock Up Garages",3,1,1,1,0
+"Galway Avenue Broadview SA 5083",204000,2001-03-29,575,141," 2 Beds, 1 Baths, 2 Car Spaces, 1 Lock Up Garages",2,1,2,1,0
+"Galway Avenue Broadview SA 5083",550000,2006-12-21,863,174," 3 Beds, 2 Baths, 2 Car Spaces, 2 Lock Up Garages, 1 Ensuites",3,2,2,2,1
+"Galway Avenue Broadview SA 5083",412500,2011-05-19,397,109," 2 Beds",2,0,0,0,0
+"Galway Avenue Broadview SA 5083",287500,2001-10-18,863,155," 3 Beds, 1 Baths, 2 Car Spaces",3,1,2,0,0
+"Galway Avenue Broadview SA 5083",325500,2003-12-29,726,115," 3 Beds, 1 Lock Up Garages",3,0,0,1,0
+"Galway Avenue Broadview SA 5083",361000,2003-01-13,490,170," 3 Beds, 2 Baths, 1 Car Spaces, 2 Lock Up Garages, 1 Ensuites",3,2,1,2,1
+"Galway Avenue Broadview SA 5083",250000,2001-10-26,910,162," 4 Beds, 2 Baths, 1 Car Spaces",4,2,1,0,0
+"Galway Avenue Broadview SA 5083",429000,2012-07-19,547,143," 3 Beds, 1 Baths, 3 Car Spaces",3,1,3,0,0
+"Galway Avenue Broadview SA 5083",3e+05,2002-12-18,807,145,"",0,0,0,0,0
+"Galway Avenue Broadview SA 5083",5e+05,2009-12-17,604,149," 4 Beds, 2 Baths, 2 Car Spaces, 2 Lock Up Garages",4,2,2,2,0
+"Galway Avenue Broadview SA 5083",3e+05,2000-11-13,1487,149,"",0,0,0,0,0
+"Galway Avenue Broadview SA 5083",395000,2008-07-22,376,117," 3 Beds, 1 Baths, 1 Car Spaces, 1 Lock Up Garages",3,1,1,1,0
+"Galway Avenue Broadview SA 5083",2e+05,2002-01-03,463,119," 2 Beds, 1 Baths, 2 Car Spaces, 2 Lock Up Garages, 1 Ensuites",2,1,2,2,1
+"Galway Avenue Broadview SA 5083",539000,2010-05-20,744,132," 3 Beds, 1 Baths, 2 Car Spaces, 4 Lock Up Garages",3,1,2,4,0
+"Galway Avenue Broadview SA 5083",158000,2000-06-16,766,130," 3 Beds, 2 Baths, 2 Car Spaces",3,2,2,0,0
+"Galway Avenue Broadview SA 5083",451000,2008-10-10,445,128," 3 Beds, 2 Baths, 1 Car Spaces, 2 Lock Up Garages, 1 Ensuites",3,2,1,2,1
+"Galway Avenue Broadview SA 5083",475000,2010-09-03,395,134," 3 Beds, 1 Baths, 1 Car Spaces, 2 Lock Up Garages",3,1,1,2,0
+"Galway Avenue Broadview SA 5083",580000,2009-12-09,888,201," 4 Beds, 2 Baths, 1 Car Spaces, 4 Lock Up Garages, 1 Ensuites",4,2,1,4,1
+"Gowland Street Broadview SA 5083",425000,2009-08-20,700,98," 2 Beds, 1 Baths, 1 Car Spaces, 1 Lock Up Garages",2,1,1,1,0
+"Gowland Street Broadview SA 5083",165500,2001-03-30,649,111," 2 Beds, 2 Lock Up Garages",2,0,0,2,0
+"Gowland Street Broadview SA 5083",210000,2001-06-19,667,122," 4 Beds",4,0,0,0,0
+"Haig Street Broadview SA 5083",322000,2007-02-19,390,123," 2 Beds, 1 Baths, 1 Ensuites",2,1,0,0,1
+"Haig Street Broadview SA 5083",367500,2007-03-15,591,129," 2 Beds, 1 Baths, 2 Car Spaces",2,1,2,0,0
+"Haig Street Broadview SA 5083",295000,2005-10-31,726,123," 3 Beds, 1 Baths",3,1,0,0,0
+"Haig Street Broadview SA 5083",445000,2011-05-06,716,98," 3 Beds, 1 Baths, 1 Car Spaces, 2 Lock Up Garages, 1 Ensuites",3,1,1,2,1
+"Haig Street Broadview SA 5083",627500,2009-01-08,767,151," 4 Beds, 2 Baths, 1 Lock Up Garages, 1 Ensuites",4,2,0,1,1
+"Haig Street Broadview SA 5083",453000,2010-02-24,423,124," 4 Beds, 2 Baths, 2 Car Spaces, 1 Ensuites",4,2,2,0,1
+"Haig Street Broadview SA 5083",425000,2009-04-01,438,144," 3 Beds, 2 Baths, 2 Car Spaces, 1 Ensuites",3,2,2,0,1
+"Haig Street Broadview SA 5083",267500,2006-11-14,934,91," 2 Beds, 1 Baths, 3 Car Spaces, 3 Lock Up Garages",2,1,3,3,0
+"Haig Street Broadview SA 5083",1e+05,2007-05-01,1675,135," 3 Beds, 2 Baths, 1 Car Spaces, 1 Lock Up Garages",3,2,1,1,0
+"Haig Street Broadview SA 5083",289000,2007-01-03,819,94," 3 Beds, 2 Baths, 2 Car Spaces",3,2,2,0,0
+"Haig Street Broadview SA 5083",156500,2001-12-20,855,98," 2 Beds, 1 Baths",2,1,0,0,0
+"Haig Street Broadview SA 5083",1e+05,2000-02-29,851,116,"",0,0,0,0,0
+"Haig Street Broadview SA 5083",360000,2008-05-29,673,111," 3 Beds, 1 Baths, 1 Car Spaces, 2 Lock Up Garages",3,1,1,2,0
+"Haig Street Broadview SA 5083",240000,2003-05-22,419,118," 3 Beds, 1 Baths",3,1,0,0,0
+"Haig Street Broadview SA 5083",370000,2008-03-06,300,117," 2 Beds, 1 Baths, 1 Lock Up Garages",2,1,0,1,0
+"Hampstead Road Broadview SA 5083",450000,2002-12-06,1142,186," 3 Beds, 2 Baths, 1 Car Spaces, 1 Lock Up Garages, 1 Ensuites",3,2,1,1,1
+"Hampstead Road Broadview SA 5083",350000,2004-04-15,979,157," 4 Beds, 1 Baths, 1 Car Spaces, 1 Lock Up Garages",4,1,1,1,0
+"Hampstead Road Broadview SA 5083",307000,2006-12-12,1080,139," 2 Beds, 1 Baths, 1 Car Spaces",2,1,1,0,0
+"Hampstead Road Broadview SA 5083",565000,2010-03-19,1082,156," 4 Beds, 1 Baths, 3 Car Spaces, 3 Lock Up Garages, 1 Ensuites",4,1,3,3,1
+"Hampstead Road Broadview SA 5083",317000,2006-07-20,909,132," 3 Beds, 1 Baths, 1 Car Spaces",3,1,1,0,0
+"Hampstead Road Broadview SA 5083",255000,2003-01-15,894,136," 3 Beds, 2 Baths, 1 Car Spaces, 1 Lock Up Garages, 1 Ensuites",3,2,1,1,1
+"Hampstead Road Broadview SA 5083",365000,2011-12-15,452,124," 3 Beds, 1 Baths, 1 Car Spaces, 1 Lock Up Garages",3,1,1,1,0
+"Hampstead Road Broadview SA 5083",360000,2009-08-18,629,127," 2 Beds, 1 Baths, 1 Car Spaces",2,1,1,0,0
+"Hampstead Road Broadview SA 5083",301000,2007-12-10,597,104," 3 Beds, 1 Baths",3,1,0,0,0
+"Hampstead Road Broadview SA 5083",285000,2006-11-20,881,117," 3 Beds, 1 Baths, 3 Car Spaces, 1 Lock Up Garages",3,1,3,1,0
+"Hampstead Road Broadview SA 5083",268000,2012-06-18,NA,80," 2 Beds, 1 Baths, 1 Car Spaces",2,1,1,0,0
+"Hampstead Road Broadview SA 5083",140000,2002-03-22,860,105,"",0,0,0,0,0
+"Hampstead Road Broadview SA 5083",2e+05,2001-07-24,809,220," 5 Beds, 2 Baths, 1 Lock Up Garages, 1 Ensuites",5,2,0,1,1
+"Hampstead Road Broadview SA 5083",352000,2012-09-13,335,141," 3 Beds, 2 Baths, 1 Lock Up Garages, 2 Ensuites",3,2,0,1,2
+"Hampstead Road Broadview SA 5083",90000,2001-04-04,303,70," 2 Beds, 1 Baths",2,1,0,0,0
+"Hampstead Road Broadview SA 5083",90000,2001-04-04,303,70," 3 Beds, 1 Baths",3,1,0,0,0
+"Hampstead Road Broadview SA 5083",192000,2012-09-07,300,70," 2 Beds, 1 Baths, 1 Car Spaces",2,1,1,0,0
+"Hampstead Road Broadview SA 5083",155500,2001-10-30,710,151," 3 Beds",3,0,0,0,0
+"Hampstead Road Broadview SA 5083",355000,2012-05-31,699,133," 3 Beds, 1 Baths, 2 Car Spaces",3,1,2,0,0
+"Hampstead Road Broadview SA 5083",3e+05,2008-10-17,922,152," 4 Beds, 1 Baths, 2 Car Spaces, 1 Lock Up Garages",4,1,2,1,0
+"Hampstead Road Broadview SA 5083",340000,2008-10-17,848,102," 4 Beds, 1 Baths, 1 Lock Up Garages",4,1,0,1,0
+"Hampstead Road Broadview SA 5083",350000,2011-04-27,491,102," 2 Beds, 1 Baths, 1 Car Spaces",2,1,1,0,0
+"Hardy Terrace Broadview SA 5083",393000,2012-02-29,233,115," 2 Beds, 1 Baths, 1 Lock Up Garages",2,1,0,1,0
+"Hardy Terrace Broadview SA 5083",267000,2002-03-27,1059,128," 4 Beds, 2 Baths, 2 Car Spaces",4,2,2,0,0
+"Hardy Terrace Broadview SA 5083",240000,2000-03-10,1059,134,"",0,0,0,0,0
+"Harper Street Broadview SA 5083",431000,2011-04-07,646,129," 3 Beds, 1 Baths, 1 Car Spaces, 1 Lock Up Garages",3,1,1,1,0
+"Harper Street Broadview SA 5083",155000,2000-09-07,632,107," 4 Beds, 2 Baths",4,2,0,0,0
+"Harper Street Broadview SA 5083",3e+05,2003-04-17,710,130," 3 Beds, 1 Baths, 1 Car Spaces, 1 Lock Up Garages",3,1,1,1,0
+"Harper Street Broadview SA 5083",390000,2008-08-13,306,133," 2 Beds, 1 Baths, 1 Car Spaces, 1 Lock Up Garages",2,1,1,1,0
+"Hepburn Street Broadview SA 5083",277000,2002-11-18,865,131," 3 Beds, 1 Baths",3,1,0,0,0
+"Hepburn Street Broadview SA 5083",270000,2001-08-31,883,151," 4 Beds, 3 Baths, 1 Car Spaces, 2 Lock Up Garages",4,3,1,2,0
+"Hepburn Street Broadview SA 5083",165000,2000-05-31,883,136," 4 Beds, 3 Baths, 3 Car Spaces, 2 Lock Up Garages",4,3,3,2,0
+"Hepburn Street Broadview SA 5083",255000,2000-08-17,883,157,"",0,0,0,0,0
+"Hepburn Street Broadview SA 5083",290000,2004-07-29,622,122," 3 Beds, 2 Baths, 2 Car Spaces, 2 Lock Up Garages, 1 Ensuites",3,2,2,2,1
+"Hepburn Street Broadview SA 5083",321000,2005-05-17,1059,95," 3 Beds, 2 Baths, 2 Car Spaces",3,2,2,0,0
+"Hepburn Street Broadview SA 5083",470000,2010-06-22,936,128," 3 Beds, 2 Baths, 1 Car Spaces, 1 Lock Up Garages, 1 Ensuites",3,2,1,1,1
+"Hepburn Street Broadview SA 5083",238000,2011-04-28,75,74," 2 Beds, 1 Baths, 1 Car Spaces, 1 Lock Up Garages",2,1,1,1,0
+"Hopkins Court Broadview SA 5083",375000,2008-08-07,366,127," 3 Beds, 2 Baths, 1 Car Spaces, 1 Lock Up Garages, 1 Ensuites",3,2,1,1,1
+"Howard Street Broadview SA 5083",228000,2008-04-27,821,167," 3 Beds, 2 Baths, 2 Car Spaces, 2 Lock Up Garages",3,2,2,2,0
+"Howard Street Broadview SA 5083",340000,2003-01-17,793,175,"",0,0,0,0,0
+"Howard Street Broadview SA 5083",207250,2000-05-23,793,125," 3 Beds, 1 Baths, 1 Car Spaces",3,1,1,0,0
+"Howard Street Broadview SA 5083",193000,2000-08-18,637,133," 3 Beds, 2 Baths",3,2,0,0,0
+"Howard Street Broadview SA 5083",437000,2005-10-28,400,167," 3 Beds, 2 Baths, 1 Ensuites",3,2,0,0,1
+"Howard Street Broadview SA 5083",425000,2004-04-22,329,204," 3 Beds, 2 Baths, 1 Ensuites",3,2,0,0,1
+"Howard Street Broadview SA 5083",469000,2005-10-10,775,170," 3 Beds, 2 Baths, 2 Car Spaces, 1 Ensuites",3,2,2,0,1
+"Howard Street Broadview SA 5083",233000,2005-12-01,184,105," 2 Beds, 1 Baths, 2 Car Spaces, 1 Lock Up Garages, 1 Ensuites",2,1,2,1,1
+"Ian Street Broadview SA 5083",330000,2007-03-29,716,119," 3 Beds, 1 Baths, 1 Car Spaces, 1 Lock Up Garages",3,1,1,1,0
+"Ian Street Broadview SA 5083",420000,2011-09-14,418,143," 3 Beds, 2 Baths, 2 Car Spaces, 2 Lock Up Garages, 1 Ensuites",3,2,2,2,1
+"Ian Street Broadview SA 5083",462500,2012-06-04,861,156," 3 Beds, 1 Baths, 2 Car Spaces, 1 Lock Up Garages",3,1,2,1,0
+"Ian Street Broadview SA 5083",515000,2010-12-16,680,127," 3 Beds, 1 Baths, 1 Car Spaces, 1 Lock Up Garages, 1 Ensuites",3,1,1,1,1
+"Ian Street Broadview SA 5083",580000,2011-05-20,687,107," 4 Beds, 2 Baths, 2 Car Spaces, 2 Lock Up Garages, 2 Ensuites",4,2,2,2,2
+"Ian Street Broadview SA 5083",480000,2010-11-30,896,133,"",0,0,0,0,0
+"Ian Street Broadview SA 5083",420000,2011-11-29,354,143," 2 Beds, 1 Baths, 1 Car Spaces",2,1,1,0,0
+"Ian Street Broadview SA 5083",310000,2005-06-24,425,107," 2 Beds, 1 Baths, 2 Car Spaces",2,1,2,0,0
+"Ian Street Broadview SA 5083",380000,2006-11-07,440,122," 4 Beds, 2 Baths, 2 Car Spaces, 1 Lock Up Garages",4,2,2,1,0
+"Ian Street Broadview SA 5083",315000,2006-11-07,370,143," 3 Beds, 1 Baths, 1 Lock Up Garages",3,1,0,1,0
+"Ian Street Broadview SA 5083",190000,2000-01-29,962,124," 3 Beds",3,0,0,0,0
+"Ian Street Broadview SA 5083",335000,2004-06-04,532,124,"",0,0,0,0,0
+"Ian Street Broadview SA 5083",412000,2007-09-26,404,169," 3 Beds, 2 Baths, 2 Car Spaces, 2 Lock Up Garages, 1 Ensuites",3,2,2,2,1
+"Ian Street Broadview SA 5083",250000,2000-12-13,483,177," 2 Ensuites",0,0,0,0,2
+"Ian Street Broadview SA 5083",324559,2004-02-12,400,154," 3 Beds, 2 Baths, 1 Ensuites",3,2,0,0,1
+"Ian Street Broadview SA 5083",249000,2003-01-13,652,149," 4 Beds, 2 Baths, 2 Car Spaces",4,2,2,0,0
+"Ian Street Broadview SA 5083",155000,2000-06-20,770,111," 2 Beds, 1 Baths, 2 Car Spaces, 2 Lock Up Garages",2,1,2,2,0
+"Ian Street Broadview SA 5083",525000,2009-04-03,990,165," 3 Beds, 1 Baths, 3 Car Spaces, 1 Lock Up Garages",3,1,3,1,0
+"Iona Street Broadview SA 5083",386000,2007-04-18,487,106," 3 Beds, 1 Baths",3,1,0,0,0
+"Iona Street Broadview SA 5083",210000,2000-01-10,821,170,"",0,0,0,0,0
+"Iona Street Broadview SA 5083",175000,2011-12-06,390,96," 3 Beds, 1 Baths, 1 Car Spaces",3,1,1,0,0
+"Iona Street Broadview SA 5083",262000,2004-10-19,449,130," 3 Beds, 1 Baths, 1 Car Spaces, 1 Lock Up Garages",3,1,1,1,0
+"Jellicoe Street Broadview SA 5083",181000,2001-06-22,820,103," 3 Beds, 1 Baths, 1 Car Spaces, 2 Lock Up Garages",3,1,1,2,0
+"Jellicoe Street Broadview SA 5083",501878,2009-06-30,856,155," 3 Beds, 2 Baths, 2 Car Spaces, 2 Lock Up Garages",3,2,2,2,0
+"Jellicoe Street Broadview SA 5083",310000,2007-01-12,344,120," 3 Beds, 1 Baths, 1 Lock Up Garages",3,1,0,1,0
+"Jellicoe Street Broadview SA 5083",375000,2002-03-01,1449,217," 4 Beds, 3 Baths",4,3,0,0,0
+"Jellicoe Street Broadview SA 5083",184000,2002-09-30,751,127,"",0,0,0,0,0
+"Jellicoe Street Broadview SA 5083",305000,2006-06-30,884,109," 3 Beds, 2 Baths, 1 Lock Up Garages, 1 Ensuites",3,2,0,1,1
+"Jellicoe Street Broadview SA 5083",410000,2009-04-08,363,113," 3 Beds, 2 Baths, 2 Car Spaces, 1 Lock Up Garages, 1 Ensuites",3,2,2,1,1
+"Jellicoe Street Broadview SA 5083",508000,2012-06-08,408,166," 3 Beds, 2 Baths, 2 Car Spaces, 2 Lock Up Garages, 1 Ensuites",3,2,2,2,1
+"Jellicoe Street Broadview SA 5083",640750,2009-09-16,567,203," 3 Beds, 2 Baths, 2 Lock Up Garages, 1 Ensuites",3,2,0,2,1
+"Jellicoe Street Broadview SA 5083",520000,2012-01-04,493,165," 3 Beds, 2 Baths, 1 Car Spaces, 1 Lock Up Garages, 1 Ensuites",3,2,1,1,1
+"Jellicoe Street Broadview SA 5083",90000,2000-05-18,390,180," 1 Ensuites",0,0,0,0,1
+"Jellicoe Street Broadview SA 5083",165750,2000-07-27,288,113," 1 Ensuites",0,0,0,0,1
+"Jellicoe Street Broadview SA 5083",630000,2012-07-02,556,275," 5 Beds, 2 Baths, 2 Car Spaces, 1 Ensuites",5,2,2,0,1
+"Lae Avenue Broadview SA 5083",88000,2000-06-02,300,70,"",0,0,0,0,0
+"Lae Avenue Broadview SA 5083",990000,2010-03-30,286,107,"",0,0,0,0,0
+"Lae Avenue Broadview SA 5083",101000,2000-02-22,313,80," 3 Beds, 1 Baths, 1 Lock Up Garages",3,1,0,1,0
+"Lae Avenue Broadview SA 5083",990000,2010-03-30,286,107,"",0,0,0,0,0
+"Lae Avenue Broadview SA 5083",990000,2010-03-30,286,107,"",0,0,0,0,0
+"Le Cornu Street Broadview SA 5083",344500,2003-10-23,882,185," 3 Beds",3,0,0,0,0
+"Le Cornu Street Broadview SA 5083",335000,2006-02-01,361,134," 3 Beds, 1 Baths, 1 Lock Up Garages",3,1,0,1,0
+"Le Cornu Street Broadview SA 5083",317500,2005-03-21,361,134," 3 Beds, 1 Baths, 2 Car Spaces",3,1,2,0,0
+"Le Cornu Street Broadview SA 5083",476000,2007-08-10,882,165," 3 Beds, 1 Baths, 1 Car Spaces, 1 Lock Up Garages",3,1,1,1,0
+"Le Cornu Street Broadview SA 5083",428000,2006-12-18,953,131," 4 Beds, 3 Baths, 2 Car Spaces, 1 Lock Up Garages",4,3,2,1,0
+"Le Cornu Street Broadview SA 5083",535000,2003-10-21,953,188," 3 Beds, 1 Baths, 2 Car Spaces",3,1,2,0,0
+"Le Cornu Street Broadview SA 5083",620000,2012-04-16,1059,105," 3 Beds, 2 Baths, 1 Car Spaces, 2 Lock Up Garages",3,2,1,2,0
+"Le Cornu Street Broadview SA 5083",470000,2009-04-20,953,127," 4 Beds, 2 Baths, 2 Car Spaces, 1 Lock Up Garages",4,2,2,1,0
+"Le Cornu Street Broadview SA 5083",545000,2010-07-13,970,121," 2 Beds, 1 Baths",2,1,0,0,0
+"Le Cornu Street Broadview SA 5083",285000,2001-12-10,970,145," 3 Beds, 1 Baths, 2 Car Spaces, 2 Lock Up Garages",3,1,2,2,0
+"Maple Street Broadview SA 5083",415000,2009-10-22,555,122," 3 Beds, 2 Baths, 1 Car Spaces, 2 Lock Up Garages",3,2,1,2,0
+"Maple Street Broadview SA 5083",615000,2012-12-05,952,310," 4 Beds, 3 Baths, 4 Lock Up Garages, 1 Ensuites",4,3,0,4,1
+"Maple Street Broadview SA 5083",430000,2012-01-23,806,110," 3 Beds, 1 Baths, 2 Car Spaces, 1 Lock Up Garages",3,1,2,1,0
+"Maple Street Broadview SA 5083",150000,2001-03-08,966,86," 3 Beds",3,0,0,0,0
+"Maple Street Broadview SA 5083",160000,2001-03-07,1006,102," 3 Beds, 1 Car Spaces, 1 Lock Up Garages",3,0,1,1,0
+"Maple Street Broadview SA 5083",110000,2000-02-11,769,74,"",0,0,0,0,0
+"Mccann Court Broadview SA 5083",115000,2001-07-17,333,139," 4 Beds, 2 Baths, 1 Lock Up Garages, 1 Ensuites",4,2,0,1,1
+"Mccann Court Broadview SA 5083",145000,2001-04-17,397,92," 3 Beds, 1 Baths, 1 Car Spaces, 1 Lock Up Garages",3,1,1,1,0
+"Mccann Court Broadview SA 5083",355000,2008-10-17,359,95," 3 Beds, 1 Baths, 2 Car Spaces",3,1,2,0,0
+"Mcinnes Avenue Broadview SA 5083",275000,2002-03-22,664,144," 3 Beds, 1 Baths",3,1,0,0,0
+"Mcinnes Avenue Broadview SA 5083",620000,2008-07-04,812,174," 4 Beds, 2 Baths, 2 Car Spaces, 4 Lock Up Garages, 1 Ensuites",4,2,2,4,1
+"Mcinnes Avenue Broadview SA 5083",150000,2000-07-31,933,135," 6 Beds, 5 Baths, 4 Car Spaces",6,5,4,0,0
+"Mcinnes Avenue Broadview SA 5083",261000,2002-03-28,1073,150," 3 Beds, 1 Lock Up Garages",3,0,0,1,0
+"Mcinnes Avenue Broadview SA 5083",320000,2011-03-09,814,139," 3 Beds, 1 Baths",3,1,0,0,0
+"Mcinnes Avenue Broadview SA 5083",330000,2004-10-11,968,128," 4 Beds, 2 Baths, 2 Car Spaces",4,2,2,0,0
+"Mcinnes Avenue Broadview SA 5083",414500,2009-11-30,330,97," 3 Beds, 1 Baths, 2 Car Spaces, 2 Lock Up Garages",3,1,2,2,0
+"Mcinnes Avenue Broadview SA 5083",285000,2003-08-04,690,97," 2 Beds, 1 Baths, 1 Car Spaces",2,1,1,0,0
+"Mcinnes Avenue Broadview SA 5083",250000,2000-02-18,1678,235," 3 Beds, 2 Baths, 2 Lock Up Garages, 1 Ensuites",3,2,0,2,1
+"Mcinnes Avenue Broadview SA 5083",435000,2004-01-15,650,145,"",0,0,0,0,0
+"Mcinnes Avenue Broadview SA 5083",510000,2009-06-01,882,150," 4 Beds, 2 Baths, 3 Car Spaces",4,2,3,0,0
+"Mckay Street Broadview SA 5083",370000,2011-05-11,740,134," 3 Beds, 1 Baths, 1 Car Spaces",3,1,1,0,0
+"Mckay Street Broadview SA 5083",280000,2010-01-15,434,83," 3 Beds, 1 Baths, 1 Car Spaces, 1 Lock Up Garages",3,1,1,1,0
+"Mckay Street Broadview SA 5083",280000,2010-01-15,338,83," 3 Beds, 1 Baths, 1 Car Spaces, 1 Lock Up Garages",3,1,1,1,0
+"Mckay Street Broadview SA 5083",177000,2001-06-26,340,139,"",0,0,0,0,0
+"Mckay Street Broadview SA 5083",230000,2003-12-09,781,91,"",0,0,0,0,0
+"Meredith Street Broadview SA 5083",240000,2005-06-29,577,127," 3 Beds",3,0,0,0,0
+"Meredith Street Broadview SA 5083",570000,2012-09-21,837,151," 4 Beds, 1 Baths, 1 Car Spaces, 1 Ensuites",4,1,1,0,1
+"Meredith Street Broadview SA 5083",470000,2011-03-25,383,126," 3 Beds, 1 Baths, 2 Car Spaces, 1 Lock Up Garages",3,1,2,1,0
+"Meredith Street Broadview SA 5083",438500,2011-04-20,699,121," 3 Beds, 1 Baths, 4 Car Spaces",3,1,4,0,0
+"Meredith Street Broadview SA 5083",380000,2011-08-08,676,154," 3 Beds, 1 Baths, 1 Car Spaces",3,1,1,0,0
+"Meredith Street Broadview SA 5083",280000,2003-09-02,410,115," 2 Beds, 1 Baths, 1 Car Spaces",2,1,1,0,0
+"Meredith Street Broadview SA 5083",272500,2005-12-08,373,127," 3 Beds, 1 Baths, 1 Car Spaces",3,1,1,0,0
+"Minney Street Broadview SA 5083",188000,2001-02-14,751,128," 3 Beds, 1 Baths, 3 Car Spaces",3,1,3,0,0
+"Minney Street Broadview SA 5083",220000,2001-01-29,751,153," 4 Beds, 2 Baths, 1 Ensuites",4,2,0,0,1
+"Minney Street Broadview SA 5083",242000,2003-02-14,432,130," 3 Beds, 1 Baths, 1 Car Spaces",3,1,1,0,0
+"Minney Street Broadview SA 5083",335000,2003-06-24,373,158," 3 Beds, 1 Ensuites",3,0,0,0,1
+"Moresby Avenue Broadview SA 5083",140000,2000-05-29,685,111," 3 Beds, 2 Baths, 2 Car Spaces",3,2,2,0,0
+"Moresby Avenue Broadview SA 5083",93500,2000-03-24,391,90," 4 Beds, 1 Baths",4,1,0,0,0
+"Myponga Terrace Broadview SA 5083",592500,2012-01-05,1114,192," 4 Beds, 2 Baths",4,2,0,0,0
+"Myponga Terrace Broadview SA 5083",210500,2001-04-06,348,150," 3 Beds, 2 Baths, 1 Ensuites",3,2,0,0,1
+"Myponga Terrace Broadview SA 5083",370000,2006-12-20,348,150," 3 Beds, 2 Baths, 1 Car Spaces, 1 Ensuites",3,2,1,0,1
+"Myponga Terrace Broadview SA 5083",460000,2010-12-09,245,135," 3 Beds, 1 Baths, 1 Car Spaces, 1 Lock Up Garages, 1 Ensuites",3,1,1,1,1
+"Myponga Terrace Broadview SA 5083",650000,2008-04-24,1207,128," 3 Beds, 2 Baths, 2 Car Spaces, 2 Lock Up Garages, 1 Ensuites",3,2,2,2,1
+"Myponga Terrace Broadview SA 5083",660250,2010-04-06,362,204," 3 Beds, 2 Baths, 2 Lock Up Garages, 1 Ensuites",3,2,0,2,1
+"Myponga Terrace Broadview SA 5083",377555,2007-02-20,938,168," 3 Beds, 2 Baths, 2 Car Spaces, 1 Ensuites",3,2,2,0,1
+"Olive Avenue Broadview SA 5083",575000,2008-05-09,767,230," 4 Beds, 1 Baths, 2 Ensuites",4,1,0,0,2
+"Olive Avenue Broadview SA 5083",120000,2000-09-18,756,130,"",0,0,0,0,0
+"Olive Avenue Broadview SA 5083",352000,2012-05-04,768,112," 3 Beds, 2 Baths, 1 Car Spaces",3,2,1,0,0
+"Olive Avenue Broadview SA 5083",356000,2008-04-30,762,93," 3 Beds, 1 Baths, 1 Car Spaces, 1 Lock Up Garages",3,1,1,1,0
+"Olive Avenue Broadview SA 5083",136000,2000-10-27,746,118," 3 Beds, 1 Baths, 2 Car Spaces",3,1,2,0,0
+"Olive Avenue Broadview SA 5083",196000,2002-11-29,753,99," 2 Beds, 2 Baths",2,2,0,0,0
+"Olive Avenue Broadview SA 5083",250000,2004-03-15,378,143," 3 Beds, 2 Baths, 1 Car Spaces",3,2,1,0,0
+"Poltawa Terrace Broadview SA 5083",330000,2012-01-27,461,147," 3 Beds, 2 Baths, 2 Car Spaces, 2 Lock Up Garages",3,2,2,2,0
+"Poltawa Terrace Broadview SA 5083",355000,2006-02-09,905,140," 4 Beds, 1 Baths, 1 Car Spaces, 1 Lock Up Garages",4,1,1,1,0
+"Poltawa Terrace Broadview SA 5083",530000,2009-04-09,401,151," 1 Ensuites",0,0,0,0,1
+"Poltawa Terrace Broadview SA 5083",4e+05,2012-08-27,397,157," 3 Beds, 1 Baths, 1 Car Spaces, 1 Ensuites",3,1,1,0,1
+"Regency Road Broadview SA 5083",380000,2010-03-10,402,135," 3 Beds, 1 Baths, 2 Car Spaces, 2 Lock Up Garages",3,1,2,2,0
+"Regency Road Broadview SA 5083",365000,2006-12-18,916,167," 4 Beds, 1 Baths, 4 Car Spaces",4,1,4,0,0
+"Regency Road Broadview SA 5083",505000,2010-12-06,1253,135," 3 Beds, 1 Baths, 1 Car Spaces, 1 Lock Up Garages",3,1,1,1,0
+"Regency Road Broadview SA 5083",520000,2008-01-04,1153,168," 3 Beds, 2 Baths, 2 Car Spaces, 2 Lock Up Garages, 1 Ensuites",3,2,2,2,1
+"Regency Road Broadview SA 5083",393000,2010-12-21,415,146," 3 Beds, 1 Baths",3,1,0,0,0
+"Regency Road Broadview SA 5083",475000,2012-04-27,1329,111," 1 Baths",0,1,0,0,0
+"Regency Road Broadview SA 5083",178000,2003-03-21,868,112," 4 Beds, 1 Baths",4,1,0,0,0
+"Regency Road Broadview SA 5083",265000,2006-06-16,1030,107," 3 Beds, 1 Baths, 1 Car Spaces",3,1,1,0,0
+"Regency Road Broadview SA 5083",3e+05,2007-12-14,569,116," 2 Beds, 1 Baths, 1 Car Spaces",2,1,1,0,0
+"Regency Road Broadview SA 5083",308000,2010-07-05,519,93," 3 Beds, 1 Baths",3,1,0,0,0
+"Regency Road Broadview SA 5083",160000,2000-03-24,1429,139,"",0,0,0,0,0
+"Rheims Street Broadview SA 5083",370000,2011-06-15,609,102," 2 Beds, 1 Baths, 1 Car Spaces, 1 Lock Up Garages",2,1,1,1,0
+"Rheims Street Broadview SA 5083",186000,2002-06-21,477,96," 4 Beds, 2 Baths, 2 Car Spaces",4,2,2,0,0
+"Rheims Street Broadview SA 5083",60000,2009-07-30,486,100," 2 Beds, 1 Baths, 1 Car Spaces",2,1,1,0,0
+"Rheims Street Broadview SA 5083",320000,2006-12-08,526,111," 3 Beds, 1 Baths, 1 Car Spaces, 1 Lock Up Garages",3,1,1,1,0
+"Rheims Street Broadview SA 5083",420000,2005-03-23,629,192," 3 Beds, 2 Baths, 1 Car Spaces, 1 Ensuites",3,2,1,0,1
+"Rheims Street Broadview SA 5083",287500,2006-01-20,323,129," 2 Beds, 1 Baths, 1 Car Spaces",2,1,1,0,0
+"Rheims Street Broadview SA 5083",435000,2011-05-05,593,144," 3 Beds, 1 Baths",3,1,0,0,0
+"Rheims Street Broadview SA 5083",359000,2008-07-31,479,111," 3 Beds, 1 Baths, 2 Lock Up Garages",3,1,0,2,0
+"Robert Avenue Broadview SA 5083",368000,2012-07-05,750,74," 3 Beds, 2 Baths, 1 Car Spaces, 2 Lock Up Garages, 1 Ensuites",3,2,1,2,1
+"Robert Avenue Broadview SA 5083",280000,2009-09-02,756,140," 3 Beds, 2 Baths, 1 Car Spaces, 1 Lock Up Garages, 1 Ensuites",3,2,1,1,1
+"Robert Avenue Broadview SA 5083",275000,2006-06-22,746,102," 3 Beds, 2 Baths, 2 Car Spaces, 2 Lock Up Garages, 1 Ensuites",3,2,2,2,1
+"Robert Avenue Broadview SA 5083",58000,2001-06-27,12,70," 2 Beds, 1 Baths, 1 Car Spaces, 1 Lock Up Garages",2,1,1,1,0
+"Robert Avenue Broadview SA 5083",147000,2003-02-21,21,91," 2 Beds, 1 Baths, 1 Car Spaces, 1 Lock Up Garages",2,1,1,1,0
+"Robert Avenue Broadview SA 5083",165000,2006-11-09,120,58," 2 Beds, 1 Baths, 1 Car Spaces, 1 Lock Up Garages",2,1,1,1,0
+"Robert Avenue Broadview SA 5083",431000,2011-05-10,738,116," 2 Beds, 1 Baths, 4 Car Spaces, 2 Lock Up Garages",2,1,4,2,0
+"Robert Avenue Broadview SA 5083",510000,2011-04-18,719,105," 3 Beds, 1 Baths, 1 Car Spaces",3,1,1,0,0
+"Robert Avenue Broadview SA 5083",332500,2009-07-14,362,102," 2 Beds, 1 Baths, 1 Car Spaces",2,1,1,0,0
+"Robert Avenue Broadview SA 5083",212000,2011-06-23,66,66," 2 Beds, 1 Baths, 1 Car Spaces",2,1,1,0,0
+"Robert Avenue Broadview SA 5083",377500,2012-09-19,712,163," 3 Beds, 1 Baths, 1 Car Spaces",3,1,1,0,0
+"Robert Avenue Broadview SA 5083",315000,2007-11-22,607,94," 2 Beds, 1 Baths, 1 Car Spaces",2,1,1,0,0
+"Robert Avenue Broadview SA 5083",375000,2012-01-09,746,109," 3 Beds, 1 Baths",3,1,0,0,0
+"Robert Avenue Broadview SA 5083",397500,2008-03-18,716,111," 3 Beds, 2 Baths, 1 Car Spaces, 1 Lock Up Garages, 1 Ensuites",3,2,1,1,1
+"Robert Avenue Broadview SA 5083",245000,2003-02-21,723,106," 2 Beds, 1 Baths, 2 Car Spaces",2,1,2,0,0
+"Robert Avenue Broadview SA 5083",412000,2012-11-09,723,107," 3 Beds, 1 Baths, 1 Car Spaces, 1 Lock Up Garages",3,1,1,1,0
+"Robert Avenue Broadview SA 5083",360000,2010-06-30,743,116," 3 Beds, 1 Baths, 1 Car Spaces",3,1,1,0,0
+"Robert Avenue Broadview SA 5083",177250,2001-12-06,766,116," 4 Beds, 1 Baths, 1 Car Spaces",4,1,1,0,0
+"Robert Avenue Broadview SA 5083",423000,2011-07-04,1514,167," 3 Beds, 2 Baths, 2 Car Spaces, 2 Lock Up Garages, 1 Ensuites",3,2,2,2,1
+"Robert Avenue Broadview SA 5083",262000,2003-12-16,481,167," 2 Ensuites",0,0,0,0,2
+"Robert Avenue Broadview SA 5083",447000,2008-10-10,785,109," 4 Beds, 2 Baths, 1 Car Spaces, 2 Lock Up Garages, 1 Ensuites",4,2,1,2,1
+"Sandville Avenue Broadview SA 5083",87500,2006-04-20,304,70," 2 Beds, 1 Baths",2,1,0,0,0
+"Sandville Avenue Broadview SA 5083",275000,2011-05-09,246,70," 2 Beds, 1 Baths, 2 Car Spaces",2,1,2,0,0
+"Sandville Avenue Broadview SA 5083",105000,2000-02-23,382,80," 3 Beds",3,0,0,0,0
+"Sandville Avenue Broadview SA 5083",240000,2007-04-30,495,80," 3 Beds, 1 Baths, 6 Car Spaces, 4 Lock Up Garages",3,1,6,4,0
+"Sandville Avenue Broadview SA 5083",126000,2001-10-12,497,80," 3 Beds, 1 Baths, 1 Car Spaces, 2 Lock Up Garages",3,1,1,2,0
+"Sandville Avenue Broadview SA 5083",327000,2005-10-28,399,157," 3 Beds, 2 Baths, 2 Lock Up Garages, 1 Ensuites",3,2,0,2,1
+"Sandville Avenue Broadview SA 5083",385000,2008-07-24,309,131," 3 Beds, 2 Baths, 2 Car Spaces, 1 Lock Up Garages, 2 Ensuites",3,2,2,1,2
+"Staffa Street Broadview SA 5083",491000,2012-01-06,916,134," 4 Beds, 2 Baths, 2 Car Spaces, 1 Lock Up Garages",4,2,2,1,0
+"Sturdee Street Broadview SA 5083",395000,2012-06-04,333,118," 3 Beds, 1 Baths, 3 Car Spaces, 1 Lock Up Garages",3,1,3,1,0
+"Sturdee Street Broadview SA 5083",270000,2010-09-22,26,77," 2 Beds, 1 Baths, 2 Car Spaces, 2 Lock Up Garages",2,1,2,2,0
+"Tarakan Avenue Broadview SA 5083",206000,2001-06-08,387,94,"",0,0,0,0,0
+"Tarakan Avenue Broadview SA 5083",206000,2001-06-08,387,94,"",0,0,0,0,0
+"Tarakan Avenue Broadview SA 5083",240000,2011-03-02,585,84,"",0,0,0,0,0
+"Tarakan Avenue Broadview SA 5083",571000,2010-07-28,585,84,"",0,0,0,0,0
+"Tarakan Avenue Broadview SA 5083",285000,2010-11-04,488,83," 3 Beds, 1 Baths, 2 Car Spaces, 2 Lock Up Garages",3,1,2,2,0
+"Tarakan Avenue Broadview SA 5083",305000,2010-04-23,599,84," 4 Beds, 2 Baths, 2 Car Spaces, 2 Lock Up Garages",4,2,2,2,0
+"Tarakan Avenue Broadview SA 5083",288000,2009-11-09,493,73," 2 Beds, 1 Baths, 1 Lock Up Garages",2,1,0,1,0
+"Tarakan Avenue Broadview SA 5083",187000,2004-11-22,619,84," 3 Beds, 1 Baths, 1 Car Spaces, 2 Lock Up Garages",3,1,1,2,0
+"Tarakan Avenue Broadview SA 5083",90000,2001-06-05,1013,84,"",0,0,0,0,0
+"Tarakan Avenue Broadview SA 5083",32333,2000-06-28,321,112,"",0,0,0,0,0
+"Tralee Avenue Broadview SA 5083",105000,2001-10-10,791,227," 2 Ensuites",0,0,0,0,2
+"Tralee Avenue Broadview SA 5083",421500,2011-10-12,380,171," 3 Beds, 2 Baths, 2 Car Spaces, 1 Lock Up Garages, 2 Ensuites",3,2,2,1,2
+"Tralee Avenue Broadview SA 5083",270000,2007-03-22,380,119," 2 Beds, 1 Baths, 1 Car Spaces, 2 Lock Up Garages",2,1,1,2,0
+"Tralee Avenue Broadview SA 5083",337000,2007-11-27,464,111," 3 Beds, 1 Baths",3,1,0,0,0
+"Tralee Avenue Broadview SA 5083",432250,2011-01-13,453,116,"",0,0,0,0,0
+"Tralee Avenue Broadview SA 5083",458000,2010-06-16,748,116," 3 Beds, 1 Baths, 1 Car Spaces, 1 Lock Up Garages",3,1,1,1,0
+"Tralee Avenue Broadview SA 5083",290000,2011-09-14,426,122," 3 Beds, 1 Baths, 1 Car Spaces",3,1,1,0,0
+"Tralee Avenue Broadview SA 5083",405000,2010-07-23,703,98," 3 Beds, 1 Baths, 1 Car Spaces, 2 Lock Up Garages",3,1,1,2,0
+"Tralee Avenue Broadview SA 5083",403000,2009-07-28,736,118," 3 Beds, 2 Baths, 2 Car Spaces",3,2,2,0,0
+"Tralee Avenue Broadview SA 5083",317000,2007-09-17,723,98," 3 Beds, 1 Baths, 1 Car Spaces",3,1,1,0,0
+"Tralee Avenue Broadview SA 5083",182000,2001-07-06,714,70," 3 Beds, 1 Baths, 2 Car Spaces, 2 Lock Up Garages",3,1,2,2,0
+"Tralee Avenue Broadview SA 5083",321000,2012-08-16,712,111," 2 Beds, 1 Baths, 2 Car Spaces, 2 Lock Up Garages",2,1,2,2,0
+"Tralee Avenue Broadview SA 5083",307000,2006-12-21,362,118," 3 Beds, 1 Baths",3,1,0,0,0
+"Tralee Avenue Broadview SA 5083",280000,2005-10-21,753,130," 3 Beds, 1 Baths, 1 Lock Up Garages",3,1,0,1,0
+"Tralee Avenue Broadview SA 5083",385000,2007-12-13,708,125," 2 Beds, 1 Baths, 2 Car Spaces, 1 Lock Up Garages",2,1,2,1,0
+"Tralee Avenue Broadview SA 5083",360000,2008-09-26,719,116," 2 Beds, 1 Baths, 1 Car Spaces, 1 Lock Up Garages",2,1,1,1,0
+"Tralee Avenue Broadview SA 5083",366000,2008-11-19,729,118," 4 Beds, 2 Baths, 2 Car Spaces, 2 Lock Up Garages",4,2,2,2,0
+"Tralee Avenue Broadview SA 5083",472500,2011-03-25,362,177," 3 Beds, 2 Baths, 2 Car Spaces, 1 Lock Up Garages, 2 Ensuites",3,2,2,1,2
+"Tralee Avenue Broadview SA 5083",513000,2010-06-03,771,164," 3 Beds, 1 Baths, 4 Car Spaces, 4 Lock Up Garages",3,1,4,4,0
+"Verco Street Broadview SA 5083",510000,2008-04-03,410,143," 3 Beds, 2 Baths, 2 Car Spaces, 1 Ensuites",3,2,2,0,1
+"Verco Street Broadview SA 5083",660000,2008-05-21,756,210," 4 Beds, 1 Baths, 1 Car Spaces, 1 Lock Up Garages",4,1,1,1,0
+"Verco Street Broadview SA 5083",238000,2003-03-05,465,150,"",0,0,0,0,0
+"Verco Street Broadview SA 5083",335000,2004-04-22,692,112," 2 Beds, 1 Lock Up Garages",2,0,0,1,0
+"Verco Street Broadview SA 5083",338000,2002-05-17,756,137," 3 Beds",3,0,0,0,0
+"Verco Street Broadview SA 5083",515000,2011-10-20,692,149," 3 Beds, 1 Baths, 1 Car Spaces, 2 Lock Up Garages",3,1,1,2,0
+"Verco Street Broadview SA 5083",192000,2000-02-24,756,135,"",0,0,0,0,0
+"Verco Street Broadview SA 5083",116666,2003-11-03,693,196,"",0,0,0,0,0
+"Verco Street Broadview SA 5083",748000,2010-01-04,690,189," 3 Beds, 2 Baths, 2 Car Spaces, 1 Ensuites",3,2,2,0,1
+"Avenue Broadview SA 5083",350000,2008-04-18,212,121,"",0,0,0,0,0
+"Watson Avenue Broadview SA 5083",390000,2010-12-17,445,109," 3 Beds, 1 Baths, 3 Car Spaces, 1 Lock Up Garages",3,1,3,1,0
+"Watson Avenue Broadview SA 5083",850000,2010-09-29,1510,139,"",0,0,0,0,0
+"Watson Avenue Broadview SA 5083",341888,2008-03-17,714,102," 3 Beds, 1 Baths, 1 Car Spaces, 1 Lock Up Garages",3,1,1,1,0
+"Watson Avenue Broadview SA 5083",336000,2009-04-22,685,102," 3 Beds, 2 Baths, 1 Car Spaces, 1 Lock Up Garages, 1 Ensuites",3,2,1,1,1
+"Watson Avenue Broadview SA 5083",165000,2000-04-28,700,102,"",0,0,0,0,0
+"Watson Avenue Broadview SA 5083",410500,2009-02-09,301,174," 3 Beds, 2 Baths, 2 Lock Up Garages, 2 Ensuites",3,2,0,2,2
+"Watson Avenue Broadview SA 5083",267500,2007-03-09,317,120," 2 Beds, 1 Baths, 2 Car Spaces, 1 Lock Up Garages",2,1,2,1,0
+"Watson Avenue Broadview SA 5083",310000,2006-12-12,320,123," 3 Beds, 1 Baths, 2 Car Spaces",3,1,2,0,0
+"Watson Avenue Broadview SA 5083",205000,2003-03-31,337,109," 2 Beds, 1 Baths, 1 Car Spaces, 1 Lock Up Garages",2,1,1,1,0
+"Watson Avenue Broadview SA 5083",250000,2005-05-09,347,131," 2 Beds, 1 Baths, 1 Car Spaces, 1 Lock Up Garages",2,1,1,1,0
+"Watson Avenue Broadview SA 5083",497000,2007-12-05,345,148," 5 Beds, 2 Baths, 2 Car Spaces, 2 Ensuites",5,2,2,0,2
+"Watson Avenue Broadview SA 5083",260000,2011-12-07,394,83," 3 Beds, 1 Baths, 1 Car Spaces, 1 Lock Up Garages",3,1,1,1,0
+"Wavell Street Broadview SA 5083",155000,2002-09-23,691,108," 3 Beds, 1 Car Spaces",3,0,1,0,0
+"Wavell Street Broadview SA 5083",73600,2002-08-26,696,94,"",0,0,0,0,0
+"Winton Street Broadview SA 5083",430000,2008-03-05,643,144," 3 Beds, 2 Baths, 2 Car Spaces",3,2,2,0,0
+"Winton Street Broadview SA 5083",790000,2011-05-19,684,245," 4 Beds, 2 Baths, 2 Car Spaces, 2 Lock Up Garages, 2 Ensuites",4,2,2,2,2
+"Winton Street Broadview SA 5083",428000,2007-08-01,1066,136," 4 Beds, 1 Baths, 2 Car Spaces, 1 Lock Up Garages",4,1,2,1,0
+"Winton Street Broadview SA 5083",422500,2011-07-01,887,131," 2 Beds, 1 Baths, 2 Car Spaces, 2 Lock Up Garages",2,1,2,2,0
+"Alfred Street Broadview SA 5083",620000,2016-06-09,533,201," 4 Beds, 2 Baths, 2 Car Spaces, 2 Lock Up Garages, 2 Ensuites",4,2,2,2,2
+"Beaven Avenue Broadview SA 5083",450000,2015-01-22,327,128," 3 Beds, 2 Baths, 1 Car Spaces, 1 Lock Up Garages, 2 Ensuites",3,2,1,1,2
+"Beaven Avenue Broadview SA 5083",465000,2013-04-23,664,111," 3 Beds, 2 Baths, 1 Car Spaces, 1 Lock Up Garages",3,2,1,1,0
+"Beaven Avenue Broadview SA 5083",82000,2015-05-27,656,121," 3 Beds, 1 Baths, 1 Car Spaces, 1 Ensuites",3,1,1,0,1
+"Beaven Avenue Broadview SA 5083",510000,2015-01-08,713,144," 3 Beds, 2 Baths, 4 Car Spaces, 1 Lock Up Garages, 1 Ensuites",3,2,4,1,1
+"Beaven Avenue Broadview SA 5083",420000,2014-11-28,711,111," 3 Beds, 1 Baths, 1 Lock Up Garages, 1 Ensuites",3,1,0,1,1
+"Beaven Avenue Broadview SA 5083",410000,2015-01-13,686,102," 3 Beds, 1 Baths, 2 Car Spaces, 2 Lock Up Garages, 1 Ensuites",3,1,2,2,1
+"Beaven Avenue Broadview SA 5083",425000,2015-02-26,737,119," 3 Beds, 1 Baths, 1 Car Spaces, 1 Lock Up Garages, 1 Ensuites",3,1,1,1,1
+"Beaven Avenue Broadview SA 5083",521000,2015-08-04,687,150," 4 Beds, 1 Baths, 3 Car Spaces, 3 Lock Up Garages, 1 Ensuites",4,1,3,3,1
+"Beaven Avenue Broadview SA 5083",350000,2014-07-25,729,111," 2 Beds, 1 Baths, 2 Car Spaces, 3 Ensuites",2,1,2,0,3
+"Beaven Avenue Broadview SA 5083",371500,2015-10-01,397,111," 2 Beds, 1 Baths, 1 Lock Up Garages, 1 Ensuites",2,1,0,1,1
+"Beryl Street Broadview SA 5083",415000,2015-07-16,300,117," 2 Beds, 1 Baths, 2 Car Spaces, 1 Lock Up Garages, 1 Ensuites",2,1,2,1,1
+"Beryl Street Broadview SA 5083",485000,2014-10-17,438,153," 4 Beds, 2 Baths, 2 Car Spaces, 1 Lock Up Garages, 1 Ensuites",4,2,2,1,1
+"Blamey Avenue Broadview SA 5083",581000,2015-07-21,544,200," 4 Beds, 2 Baths, 2 Car Spaces, 2 Lock Up Garages, 2 Ensuites",4,2,2,2,2
+"Blamey Avenue Broadview SA 5083",722000,2013-08-28,690,254," 5 Beds, 2 Baths, 3 Car Spaces, 3 Lock Up Garages, 1 Ensuites",5,2,3,3,1
+"Blamey Avenue Broadview SA 5083",363000,2013-09-19,422,128," 3 Beds, 1 Baths, 2 Car Spaces",3,1,2,0,0
+"Blamey Avenue Broadview SA 5083",25000,2015-02-12,686,114," 3 Beds, 1 Baths, 2 Car Spaces, 2 Lock Up Garages, 1 Ensuites",3,1,2,2,1
+"Blamey Avenue Broadview SA 5083",350000,2013-10-11,697,90," 3 Beds, 1 Baths, 1 Car Spaces, 1 Lock Up Garages",3,1,1,1,0
+"Blamey Avenue Broadview SA 5083",268000,2015-07-31,399,83," 2 Beds, 1 Baths, 1 Car Spaces, 3 Lock Up Garages, 1 Ensuites",2,1,1,3,1
+"Blamey Avenue Broadview SA 5083",287000,2015-09-24,533,84," 1 Ensuites",0,0,0,0,1
+"Blamey Avenue Broadview SA 5083",317000,2015-10-09,475,83," 3 Beds, 1 Baths, 2 Car Spaces, 2 Lock Up Garages, 1 Ensuites",3,1,2,2,1
+"Blyth Street Broadview SA 5083",5e+05,2013-06-28,418,176," 2 Ensuites",0,0,0,0,2
+"Blyth Street Broadview SA 5083",505000,2013-04-11,418,176," 4 Beds, 2 Baths, 1 Car Spaces, 2 Lock Up Garages, 2 Ensuites",4,2,1,2,2
+"Blyth Street Broadview SA 5083",365000,2013-04-08,821,92," 3 Beds, 2 Baths, 1 Car Spaces",3,2,1,0,0
+"Blyth Street Broadview SA 5083",9240000,2014-06-25,364,114,"",0,0,0,0,0
+"Blyth Street Broadview SA 5083",484000,2015-01-08,440,178," 3 Ensuites",0,0,0,0,3
+"Blyth Street Broadview SA 5083",5e+05,2013-01-31,457,187," 3 Beds, 2 Baths, 1 Car Spaces, 1 Lock Up Garages, 2 Ensuites",3,2,1,1,2
+"Bridges Street Broadview SA 5083",430000,2016-05-16,401,124," 2 Beds, 1 Baths, 2 Car Spaces, 2 Lock Up Garages, 1 Ensuites",2,1,2,2,1
+"Bridges Street Broadview SA 5083",511000,2016-03-21,601,152," 4 Beds, 1 Baths, 2 Car Spaces, 2 Lock Up Garages, 1 Ensuites",4,1,2,2,1
+"Bridges Street Broadview SA 5083",420000,2016-05-06,301,138," 1 Ensuites",0,0,0,0,1
+"Bridges Street Broadview SA 5083",450000,2015-07-09,301,138," 3 Beds, 1 Baths, 1 Car Spaces, 1 Lock Up Garages, 1 Ensuites",3,1,1,1,1
+"Bridges Street Broadview SA 5083",458000,2013-02-12,363,138," 3 Beds, 1 Baths, 1 Lock Up Garages",3,1,0,1,0
+"Brooke Street Broadview SA 5083",450000,2015-09-22,300,123," 2 Beds, 1 Baths, 1 Car Spaces, 1 Lock Up Garages, 1 Ensuites",2,1,1,1,1
+"Brooke Street Broadview SA 5083",385000,2013-06-20,661,105," 4 Beds, 2 Baths, 2 Car Spaces, 2 Lock Up Garages",4,2,2,2,0
+"Bruce Street Broadview SA 5083",510000,2015-12-17,695,115," 3 Beds, 1 Baths, 3 Car Spaces, 3 Lock Up Garages, 1 Ensuites",3,1,3,3,1
+"Bruce Street Broadview SA 5083",496000,2015-10-16,669,104," 3 Beds, 1 Baths, 2 Car Spaces, 2 Lock Up Garages, 1 Ensuites",3,1,2,2,1
+"Bruce Street Broadview SA 5083",6e+05,2015-06-05,713,196," 3 Beds, 2 Baths, 2 Car Spaces, 4 Lock Up Garages, 3 Ensuites",3,2,2,4,3
+"Bruce Street Broadview SA 5083",584000,2014-05-14,923,241," 4 Beds, 2 Baths, 3 Car Spaces, 1 Lock Up Garages",4,2,3,1,0
+"Brussels Street Broadview SA 5083",486800,2014-12-29,436,123," 3 Beds, 1 Baths, 2 Car Spaces, 1 Ensuites",3,1,2,0,1
+"Brussels Street Broadview SA 5083",453600,2015-05-05,473,98," 2 Beds, 1 Baths, 3 Car Spaces, 2 Lock Up Garages, 1 Ensuites",2,1,3,2,1
+"Burgan Street Broadview SA 5083",585000,2015-12-18,1106,100," 2 Beds, 1 Baths, 2 Car Spaces, 1 Lock Up Garages, 1 Ensuites",2,1,2,1,1
+"Burgan Street Broadview SA 5083",530000,2015-11-20,806,98," 2 Beds, 1 Baths, 2 Car Spaces, 2 Lock Up Garages, 1 Ensuites",2,1,2,2,1
+"Collingrove Avenue Broadview SA 5083",820000,2015-06-24,1209,182," 4 Beds, 2 Baths, 1 Car Spaces, 1 Lock Up Garages, 1 Ensuites",4,2,1,1,1
+"Collingrove Avenue Broadview SA 5083",583000,2016-01-25,448,145," 4 Beds, 1 Baths, 1 Car Spaces, 1 Lock Up Garages, 1 Ensuites",4,1,1,1,1
+"Collingrove Avenue Broadview SA 5083",495000,2014-10-22,568,133," 2 Beds, 1 Baths, 2 Car Spaces, 1 Ensuites",2,1,2,0,1
+"Collingrove Avenue Broadview SA 5083",449000,2014-09-04,509,119," 3 Beds, 1 Baths, 1 Car Spaces, 2 Lock Up Garages, 1 Ensuites",3,1,1,2,1
+"Collingrove Avenue Broadview SA 5083",410000,2013-10-11,288,97," 2 Beds, 1 Baths, 1 Car Spaces, 1 Lock Up Garages",2,1,1,1,0
+"Collingrove Avenue Broadview SA 5083",5e+05,2015-04-22,351,138," 3 Beds, 1 Baths, 1 Car Spaces, 1 Lock Up Garages, 1 Ensuites",3,1,1,1,1
+"Collingrove Avenue Broadview SA 5083",413000,2015-07-02,419,126," 2 Beds, 1 Baths, 2 Car Spaces, 2 Lock Up Garages, 1 Ensuites",2,1,2,2,1
+"Collingrove Avenue Broadview SA 5083",186500,2013-02-06,558,162," 2 Beds, 1 Baths, 1 Car Spaces, 1 Lock Up Garages",2,1,1,1,0
+"Collingrove Avenue Broadview SA 5083",5e+05,2015-01-16,441,158," 3 Beds, 2 Baths, 1 Car Spaces, 1 Lock Up Garages, 2 Ensuites",3,2,1,1,2
+"Collingrove Avenue Broadview SA 5083",375000,2014-05-14,209,115," 2 Beds, 1 Baths, 1 Car Spaces, 1 Lock Up Garages",2,1,1,1,0
+"Collingrove Avenue Broadview SA 5083",552400,2015-04-07,671,113," 3 Beds, 1 Baths, 3 Car Spaces, 1 Ensuites",3,1,3,0,1
+"Collins Street Broadview SA 5083",485000,2016-04-06,385,166," 4 Beds, 2 Baths, 1 Car Spaces, 1 Lock Up Garages, 2 Ensuites",4,2,1,1,2
+"Collins Street Broadview SA 5083",465000,2016-02-26,385,152," 2 Ensuites",0,0,0,0,2
+"Collins Street Broadview SA 5083",571000,2015-04-28,775,222," 3 Beds, 1 Baths, 4 Car Spaces, 4 Lock Up Garages, 1 Ensuites",3,1,4,4,1
+"Collins Street Broadview SA 5083",466000,2014-01-06,790,105," 3 Beds, 1 Baths, 1 Car Spaces",3,1,1,0,0
+"Collins Street Broadview SA 5083",4e+05,2013-12-16,784,202," 4 Beds, 2 Baths, 1 Car Spaces, 1 Ensuites",4,2,1,0,1
+"Collins Street Broadview SA 5083",450000,2013-11-04,448,191," 3 Beds, 2 Baths, 2 Car Spaces, 1 Lock Up Garages, 2 Ensuites",3,2,2,1,2
+"Collins Street Broadview SA 5083",560000,2016-05-27,448,191," 3 Beds, 2 Baths, 1 Car Spaces, 1 Lock Up Garages, 3 Ensuites",3,2,1,1,3
+"Collins Street Broadview SA 5083",355000,2015-06-30,446,100," 2 Beds, 1 Baths, 1 Car Spaces, 1 Lock Up Garages, 1 Ensuites",2,1,1,1,1
+"Collins Street Broadview SA 5083",410000,2014-08-18,835,102," 3 Beds, 1 Baths, 3 Car Spaces, 6 Lock Up Garages, 1 Ensuites",3,1,3,6,1
+"Conyingham Street Broadview SA 5083",351000,2014-12-05,541,82," 3 Beds, 1 Baths, 3 Car Spaces, 3 Lock Up Garages, 1 Ensuites",3,1,3,3,1
+"Conyingham Street Broadview SA 5083",337000,2015-01-16,545,102," 3 Beds, 1 Baths, 2 Car Spaces, 1 Ensuites",3,1,2,0,1
+"Copley Street Broadview SA 5083",365000,2013-02-20,702,102," 3 Beds, 1 Baths, 1 Car Spaces, 2 Lock Up Garages",3,1,1,2,0
+"Copley Street Broadview SA 5083",482000,2015-05-18,716,111," 3 Beds, 2 Baths, 1 Car Spaces, 1 Lock Up Garages, 1 Ensuites",3,2,1,1,1
+"Copley Street Broadview SA 5083",1e+05,2014-07-01,691,102," 4 Beds, 2 Baths, 1 Car Spaces, 1 Lock Up Garages, 3 Ensuites",4,2,1,1,3
+"Copley Street Broadview SA 5083",85000,2013-06-21,756,102," 3 Beds, 1 Baths",3,1,0,0,0
+"Copley Street Broadview SA 5083",350000,2013-12-02,652,130,"",0,0,0,0,0
+"Copley Street Broadview SA 5083",439000,2014-05-15,708,145," 3 Beds, 2 Baths, 1 Car Spaces, 2 Lock Up Garages, 1 Ensuites",3,2,1,2,1
+"Copley Street Broadview SA 5083",355000,2013-03-28,704,102," 3 Beds, 1 Baths, 1 Car Spaces, 1 Lock Up Garages",3,1,1,1,0
+"Craddock Street Broadview SA 5083",447400,2013-03-07,400,131," 3 Beds, 1 Baths, 2 Car Spaces, 1 Lock Up Garages",3,1,2,1,0
+"Craddock Street Broadview SA 5083",731000,2015-10-09,660,213," 4 Beds, 1 Baths, 3 Car Spaces, 3 Lock Up Garages, 1 Ensuites",4,1,3,3,1
+"Day Avenue Broadview SA 5083",330000,2013-06-21,721,102," 2 Beds, 1 Baths, 2 Car Spaces, 1 Lock Up Garages",2,1,2,1,0
+"Day Avenue Broadview SA 5083",470000,2013-12-09,739,124," 3 Beds, 1 Baths, 4 Car Spaces, 1 Lock Up Garages",3,1,4,1,0
+"Day Avenue Broadview SA 5083",401500,2016-03-04,734,102," 3 Beds, 1 Baths, 3 Car Spaces, 3 Lock Up Garages, 1 Ensuites",3,1,3,3,1
+"Erin Street Broadview SA 5083",990000,2013-05-15,797,350," 4 Beds, 2 Baths, 2 Car Spaces, 2 Lock Up Garages, 1 Ensuites",4,2,2,2,1
+"Erin Street Broadview SA 5083",625000,2016-06-16,680,140," 3 Beds, 2 Baths, 2 Car Spaces, 2 Lock Up Garages, 1 Ensuites",3,2,2,2,1
+"Erin Street Broadview SA 5083",581010,2016-03-16,669,118," 4 Beds, 1 Baths, 1 Car Spaces, 2 Lock Up Garages, 1 Ensuites",4,1,1,2,1
+"Erin Street Broadview SA 5083",572000,2014-09-22,670,125," 3 Beds, 1 Baths, 2 Car Spaces, 2 Lock Up Garages, 1 Ensuites",3,1,2,2,1
+"Francis Avenue Broadview SA 5083",568000,2015-11-26,699,191," 3 Beds, 2 Baths, 2 Car Spaces, 2 Lock Up Garages, 3 Ensuites",3,2,2,2,3
+"Francis Avenue Broadview SA 5083",367000,2014-04-11,682,96," 2 Beds, 1 Baths, 1 Car Spaces, 1 Lock Up Garages",2,1,1,1,0
+"Francis Avenue Broadview SA 5083",378000,2013-01-30,710,133," 3 Beds, 1 Baths, 2 Car Spaces, 3 Lock Up Garages",3,1,2,3,0
+"Francis Avenue Broadview SA 5083",440000,2015-12-18,686,95," 3 Beds, 1 Baths, 1 Car Spaces, 3 Lock Up Garages, 1 Ensuites",3,1,1,3,1
+"French Street Broadview SA 5083",641000,2014-10-27,1087,183," 4 Beds, 2 Baths, 2 Car Spaces, 2 Lock Up Garages, 1 Ensuites",4,2,2,2,1
+"French Street Broadview SA 5083",510000,2014-01-07,668,130," 3 Beds, 1 Baths, 1 Ensuites",3,1,0,0,1
+"French Street Broadview SA 5083",441000,2016-06-02,456,116," 3 Beds, 1 Baths, 2 Car Spaces, 2 Lock Up Garages, 1 Ensuites",3,1,2,2,1
+"French Street Broadview SA 5083",570000,2016-04-14,560,210," 2 Ensuites",0,0,0,0,2
+"French Street Broadview SA 5083",705000,2013-04-08,943,240," 4 Beds, 2 Baths, 1 Car Spaces, 2 Lock Up Garages, 1 Ensuites",4,2,1,2,1
+"Galway Avenue Broadview SA 5083",393000,2014-10-23,563,134," 3 Beds, 2 Baths, 1 Car Spaces, 1 Lock Up Garages",3,2,1,1,0
+"Galway Avenue Broadview SA 5083",620000,2014-06-20,1059,175," 3 Beds, 2 Baths, 1 Car Spaces, 1 Ensuites",3,2,1,0,1
+"Galway Avenue Broadview SA 5083",825000,2013-11-28,559,242," 3 Beds, 2 Baths, 2 Car Spaces, 2 Lock Up Garages, 1 Ensuites",3,2,2,2,1
+"Galway Avenue Broadview SA 5083",770000,2015-05-31,826,213," 5 Beds, 2 Baths, 4 Car Spaces, 2 Ensuites",5,2,4,0,2
+"Galway Avenue Broadview SA 5083",595000,2014-12-22,552,125," 3 Beds, 2 Baths, 1 Car Spaces, 1 Lock Up Garages, 1 Ensuites",3,2,1,1,1
+"Galway Avenue Broadview SA 5083",650000,2015-02-02,1028,165," 3 Beds, 1 Baths, 2 Car Spaces, 1 Ensuites",3,1,2,0,1
+"Galway Avenue Broadview SA 5083",390000,2014-10-20,421,97," 3 Beds, 1 Baths, 2 Car Spaces, 1 Ensuites",3,1,2,0,1
+"Galway Avenue Broadview SA 5083",695000,2015-07-03,710,194," 3 Beds, 2 Baths, 2 Car Spaces, 2 Lock Up Garages, 2 Ensuites",3,2,2,2,2
+"Galway Avenue Broadview SA 5083",765000,2015-08-31,724,215," 4 Beds, 2 Baths, 2 Car Spaces, 2 Lock Up Garages, 2 Ensuites",4,2,2,2,2
+"Galway Avenue Broadview SA 5083",720000,2014-10-10,463,210," 3 Beds, 2 Baths, 2 Car Spaces, 2 Lock Up Garages, 3 Ensuites",3,2,2,2,3
+"Galway Avenue Broadview SA 5083",810000,2014-11-12,1380,149," 2 Beds, 1 Baths, 1 Car Spaces, 1 Lock Up Garages, 1 Ensuites",2,1,1,1,1
+"Galway Avenue Broadview SA 5083",445000,2014-04-22,730,124," 3 Beds, 1 Baths, 1 Car Spaces",3,1,1,0,0
+"Galway Avenue Broadview SA 5083",237500,2016-06-07,298,135," 2 Baths, 1 Car Spaces, 2 Ensuites",0,2,1,0,2
+"Galway Avenue Broadview SA 5083",550000,2014-12-19,827,111," 4 Beds, 3 Baths, 2 Car Spaces, 1 Lock Up Garages, 1 Ensuites",4,3,2,1,1
+"Galway Avenue Broadview SA 5083",975000,2015-02-23,670,299," 4 Beds, 3 Baths, 2 Car Spaces, 2 Lock Up Garages, 4 Ensuites",4,3,2,2,4
+"Galway Avenue Broadview SA 5083",90000,2013-06-27,448,130," 3 Beds, 2 Baths, 2 Car Spaces, 2 Lock Up Garages, 1 Ensuites",3,2,2,2,1
+"Galway Avenue Broadview SA 5083",480000,2016-01-27,530,154," 3 Beds, 1 Baths, 2 Car Spaces, 2 Lock Up Garages, 1 Ensuites",3,1,2,2,1
+"Gowland Street Broadview SA 5083",536800,2016-02-03,432,183," 3 Beds, 1 Baths, 1 Car Spaces, 1 Lock Up Garages, 1 Ensuites",3,1,1,1,1
+"Gowland Street Broadview SA 5083",667000,2016-05-06,691,122," 3 Beds, 1 Baths, 2 Car Spaces, 2 Lock Up Garages, 1 Ensuites",3,1,2,2,1
+"Gowland Street Broadview SA 5083",475000,2014-03-17,635,102," 3 Beds, 1 Baths, 2 Car Spaces, 2 Lock Up Garages",3,1,2,2,0
+"Gowland Street Broadview SA 5083",432000,2013-11-25,687,98," 3 Beds, 1 Baths, 2 Car Spaces",3,1,2,0,0
+"Gowland Street Broadview SA 5083",410000,2016-03-10,724,107," 2 Beds, 1 Baths, 2 Car Spaces, 2 Lock Up Garages, 1 Ensuites",2,1,2,2,1
+"Gowland Street Broadview SA 5083",485000,2015-07-03,320,130," 4 Beds, 2 Baths, 3 Car Spaces, 1 Lock Up Garages, 2 Ensuites",4,2,3,1,2
+"Haig Street Broadview SA 5083",595000,2014-03-20,737,122," 3 Beds, 1 Baths, 1 Car Spaces, 2 Lock Up Garages",3,1,1,2,0
+"Haig Street Broadview SA 5083",518600,2016-04-28,400,150," 3 Beds, 2 Baths, 1 Car Spaces, 1 Lock Up Garages, 2 Ensuites",3,2,1,1,2
+"Haig Street Broadview SA 5083",485000,2014-12-01,438,150," 3 Beds, 2 Baths, 1 Car Spaces, 2 Lock Up Garages, 2 Ensuites",3,2,1,2,2
+"Haig Street Broadview SA 5083",492000,2013-12-03,717,106," 2 Beds, 1 Baths, 2 Car Spaces, 1 Lock Up Garages",2,1,2,1,0
+"Haig Street Broadview SA 5083",450000,2015-11-18,768,132," 1 Ensuites",0,0,0,0,1
+"Haig Street Broadview SA 5083",418000,2013-02-20,434,126," 3 Beds, 2 Baths, 1 Car Spaces, 1 Lock Up Garages, 1 Ensuites",3,2,1,1,1
+"Haig Street Broadview SA 5083",450000,2013-07-19,735,127," 4 Beds, 1 Baths, 2 Car Spaces, 1 Lock Up Garages",4,1,2,1,0
+"Haig Street Broadview SA 5083",590000,2014-12-19,827,123," 3 Beds, 1 Baths, 2 Car Spaces, 2 Lock Up Garages, 1 Ensuites",3,1,2,2,1
+"Hampstead Road Broadview SA 5083",9e+05,2014-07-11,1503,208," 3 Beds, 2 Baths, 1 Car Spaces, 1 Lock Up Garages, 3 Ensuites",3,2,1,1,3
+"Hampstead Road Broadview SA 5083",490000,2016-02-18,910,159," 4 Beds, 1 Baths, 1 Car Spaces, 1 Lock Up Garages, 1 Ensuites",4,1,1,1,1
+"Hampstead Road Broadview SA 5083",564200,2016-02-19,714,172," 3 Beds, 2 Baths, 1 Car Spaces, 1 Lock Up Garages, 1 Ensuites",3,2,1,1,1
+"Hampstead Road Broadview SA 5083",565000,2016-05-26,552,171," 3 Beds, 2 Baths, 3 Car Spaces, 2 Lock Up Garages, 2 Ensuites",3,2,3,2,2
+"Hampstead Road Broadview SA 5083",620000,2015-05-07,690,202," 4 Beds, 2 Baths, 7 Car Spaces, 2 Lock Up Garages, 2 Ensuites",4,2,7,2,2
+"Hampstead Road Broadview SA 5083",498000,2016-03-10,867,109," 2 Beds, 1 Baths, 6 Car Spaces, 9 Lock Up Garages, 1 Ensuites",2,1,6,9,1
+"Hampstead Road Broadview SA 5083",343000,2014-03-31,304,142," 2 Ensuites",0,0,0,0,2
+"Hampstead Road Broadview SA 5083",330000,2014-07-18,695,94," 2 Beds, 1 Baths, 3 Car Spaces, 3 Lock Up Garages, 3 Ensuites",2,1,3,3,3
+"Hampstead Road Broadview SA 5083",205000,2014-12-23,703,102," 3 Beds, 1 Baths, 3 Car Spaces, 4 Lock Up Garages, 1 Ensuites",3,1,3,4,1
+"Harper Street Broadview SA 5083",627000,2014-08-15,665,155," 4 Beds, 2 Baths, 3 Car Spaces, 1 Ensuites",4,2,3,0,1
+"Harper Street Broadview SA 5083",720000,2016-04-20,685,226," 3 Beds, 2 Baths, 2 Car Spaces, 2 Lock Up Garages, 3 Ensuites",3,2,2,2,3
+"Hepburn Street Broadview SA 5083",672000,2015-03-30,1090,180," 3 Beds, 2 Baths, 2 Car Spaces, 2 Lock Up Garages, 1 Ensuites",3,2,2,2,1
+"Hopkins Court Broadview SA 5083",348000,2013-01-15,366,147," 3 Beds, 2 Baths, 1 Car Spaces, 1 Ensuites",3,2,1,0,1
+"Hopkins Court Broadview SA 5083",421500,2016-02-25,366,154," 3 Beds, 2 Baths, 1 Car Spaces, 1 Lock Up Garages, 2 Ensuites",3,2,1,1,2
+"Howard Street Broadview SA 5083",983000,2015-02-20,1189,190," 5 Beds, 3 Baths, 2 Car Spaces, 2 Lock Up Garages, 1 Ensuites",5,3,2,2,1
+"Howard Street Broadview SA 5083",530000,2016-04-06,775,116," 4 Beds, 2 Baths, 2 Car Spaces, 1 Ensuites",4,2,2,0,1
+"Ian Street Broadview SA 5083",520000,2014-03-17,400,118," 3 Beds, 1 Baths, 3 Car Spaces, 2 Lock Up Garages",3,1,3,2,0
+"Ian Street Broadview SA 5083",160000,2014-02-19,289,128," 3 Beds, 1 Baths, 1 Car Spaces, 1 Lock Up Garages",3,1,1,1,0
+"Ian Street Broadview SA 5083",852100,2013-07-01,860,311," 4 Beds, 3 Baths, 3 Car Spaces, 2 Lock Up Garages, 2 Ensuites",4,3,3,2,2
+"Ian Street Broadview SA 5083",490000,2013-11-25,778,134," 3 Beds, 1 Baths, 3 Car Spaces",3,1,3,0,0
+"Iona Street Broadview SA 5083",130000,2015-02-20,572,124," 3 Beds, 2 Baths, 4 Car Spaces, 2 Lock Up Garages, 1 Ensuites",3,2,4,2,1
+"Iona Street Broadview SA 5083",650000,2014-12-04,779,112," 3 Beds, 1 Baths, 2 Car Spaces, 1 Lock Up Garages, 1 Ensuites",3,1,2,1,1
+"Iona Street Broadview SA 5083",414000,2013-05-13,362,114," 3 Beds, 1 Baths, 2 Car Spaces, 1 Lock Up Garages",3,1,2,1,0
+"Jellicoe Street Broadview SA 5083",690000,2015-03-27,1125,112," 4 Beds, 1 Baths, 1 Car Spaces, 1 Lock Up Garages, 1 Ensuites",4,1,1,1,1
+"Jellicoe Street Broadview SA 5083",595000,2014-06-13,442,197," 3 Beds, 2 Baths, 1 Lock Up Garages, 1 Ensuites",3,2,0,1,1
+"Jellicoe Street Broadview SA 5083",547750,2015-05-21,390,180," 2 Ensuites",0,0,0,0,2
+"Jellicoe Street Broadview SA 5083",411000,2014-10-15,300,121," 2 Beds, 2 Baths, 1 Car Spaces, 1 Lock Up Garages, 2 Ensuites",2,2,1,1,2
+"Lae Avenue Broadview SA 5083",365000,2015-09-09,319,80," 3 Beds, 1 Baths, 2 Car Spaces, 1 Ensuites",3,1,2,0,1
+"Le Cornu Street Broadview SA 5083",494000,2015-06-29,313,134," 2 Beds, 1 Baths, 1 Car Spaces, 1 Lock Up Garages, 1 Ensuites",2,1,1,1,1
+"Le Cornu Street Broadview SA 5083",670000,2013-12-20,1147,150," 3 Beds, 1 Baths, 1 Car Spaces, 1 Lock Up Garages",3,1,1,1,0
+"Maple Street Broadview SA 5083",750000,2013-12-12,1506,133," 3 Beds, 1 Baths, 2 Car Spaces, 2 Lock Up Garages",3,1,2,2,0
+"Maple Street Broadview SA 5083",475000,2016-06-03,696,124," 4 Beds, 1 Baths, 2 Car Spaces, 2 Lock Up Garages, 1 Ensuites",4,1,2,2,1
+"Mccann Court Broadview SA 5083",290000,2014-11-21,308,94," 3 Beds, 1 Baths, 1 Car Spaces, 1 Ensuites",3,1,1,0,1
+"Mcinnes Avenue Broadview SA 5083",585000,2015-01-05,967,194," 3 Beds, 1 Baths, 2 Car Spaces, 2 Lock Up Garages, 1 Ensuites",3,1,2,2,1
+"Mcinnes Avenue Broadview SA 5083",790000,2013-01-08,812,184," 4 Beds, 2 Baths, 4 Car Spaces, 1 Lock Up Garages",4,2,4,1,0
+"Mcinnes Avenue Broadview SA 5083",555000,2016-06-15,728,131," 3 Beds, 1 Baths, 1 Car Spaces, 1 Lock Up Garages, 1 Ensuites",3,1,1,1,1
+"Mcinnes Avenue Broadview SA 5083",710000,2016-03-29,866,171," 4 Beds, 2 Baths, 2 Car Spaces, 2 Lock Up Garages, 1 Ensuites",4,2,2,2,1
+"Mcinnes Avenue Broadview SA 5083",758000,2016-01-27,822,209," 4 Beds, 2 Baths, 2 Car Spaces, 1 Ensuites",4,2,2,0,1
+"Mckay Street Broadview SA 5083",4045000,2014-07-15,308,90," 3 Ensuites",0,0,0,0,3
+"Meredith Street Broadview SA 5083",496000,2013-10-21,708,131," 3 Beds, 2 Baths, 2 Car Spaces, 2 Lock Up Garages",3,2,2,2,0
+"Meredith Street Broadview SA 5083",550000,2016-01-14,664,111," 3 Beds, 1 Baths, 1 Car Spaces, 1 Lock Up Garages, 1 Ensuites",3,1,1,1,1
+"Meredith Street Broadview SA 5083",584500,2016-01-29,734,152," 3 Beds, 1 Baths, 3 Car Spaces, 3 Lock Up Garages, 1 Ensuites",3,1,3,3,1
+"Meredith Street Broadview SA 5083",510000,2016-01-28,674,119," 3 Beds, 1 Baths, 1 Car Spaces, 2 Lock Up Garages, 1 Ensuites",3,1,1,2,1
+"Meredith Street Broadview SA 5083",595000,2014-05-19,878,144," 4 Beds, 2 Baths, 2 Car Spaces, 2 Lock Up Garages",4,2,2,2,0
+"Moresby Avenue Broadview SA 5083",322000,2014-02-26,387,93," 4 Beds, 1 Baths, 1 Car Spaces",4,1,1,0,0
+"Moresby Avenue Broadview SA 5083",435000,2015-11-13,315,138," 3 Beds, 2 Baths, 1 Car Spaces, 1 Lock Up Garages, 2 Ensuites",3,2,1,1,2
+"Moresby Avenue Broadview SA 5083",450000,2013-03-28,529,80,"",0,0,0,0,0
+"Moresby Avenue Broadview SA 5083",450000,2013-03-28,517,80," 3 Beds, 1 Lock Up Garages",3,0,0,1,0
+"Myponga Terrace Broadview SA 5083",620000,2015-01-28,1114,115," 3 Beds, 2 Baths, 2 Car Spaces, 2 Lock Up Garages, 1 Ensuites",3,2,2,2,1
+"Myponga Terrace Broadview SA 5083",350000,2013-05-30,294,108," 2 Beds, 1 Baths, 1 Car Spaces, 1 Lock Up Garages",2,1,1,1,0
+"Olive Avenue Broadview SA 5083",411000,2014-06-30,766,98," 2 Beds, 1 Baths, 2 Car Spaces, 2 Lock Up Garages",2,1,2,2,0
+"Olive Avenue Broadview SA 5083",585000,2015-08-04,754,125," 3 Beds, 1 Baths, 3 Car Spaces, 3 Lock Up Garages, 1 Ensuites",3,1,3,3,1
+"Poltawa Terrace Broadview SA 5083",530000,2015-12-15,397,157," 3 Beds, 1 Baths, 2 Car Spaces, 2 Lock Up Garages, 2 Ensuites",3,1,2,2,2
+"Road Broadview SA 5083",362000,2015-01-02,346,130," 1 Ensuites",0,0,0,0,1
+"Regency Road Broadview SA 5083",447500,2014-10-29,738,113," 5 Beds, 2 Baths, 2 Car Spaces, 2 Lock Up Garages, 1 Ensuites",5,2,2,2,1
+"Regency Road Broadview SA 5083",305000,2014-07-30,740,126," 3 Beds, 2 Baths, 1 Car Spaces, 1 Lock Up Garages, 1 Ensuites",3,2,1,1,1
+"Rheims Street Broadview SA 5083",610000,2016-02-12,641,158," 3 Beds, 2 Baths, 2 Car Spaces, 2 Lock Up Garages, 1 Ensuites",3,2,2,2,1
+"Rheims Street Broadview SA 5083",388500,2015-02-13,769,98," 2 Beds, 1 Baths, 1 Car Spaces, 1 Lock Up Garages, 1 Ensuites",2,1,1,1,1
+"Rheims Street Broadview SA 5083",502500,2014-05-05,329,127," 3 Beds, 2 Baths, 1 Car Spaces, 1 Lock Up Garages, 1 Ensuites",3,2,1,1,1
+"Avenue Broadview SA 5083",5e+05,2015-06-05,421,164," 2 Ensuites",0,0,0,0,2
+"Robert Avenue Broadview SA 5083",266250,2014-04-24,167,90," 2 Beds, 1 Baths, 1 Car Spaces, 1 Lock Up Garages",2,1,1,1,0
+"Robert Avenue Broadview SA 5083",520000,2015-02-03,362,181," 3 Beds, 2 Baths, 1 Car Spaces, 1 Lock Up Garages, 3 Ensuites",3,2,1,1,3
+"Robert Avenue Broadview SA 5083",516500,2014-12-12,733,131," 4 Beds, 2 Baths, 4 Car Spaces, 1 Lock Up Garages, 1 Ensuites",4,2,4,1,1
+"Robert Avenue Broadview SA 5083",396000,2013-09-05,774,85," 2 Beds, 1 Baths, 2 Car Spaces, 1 Lock Up Garages",2,1,2,1,0
+"Robert Avenue Broadview SA 5083",415000,2015-10-09,351,123," 2 Beds, 1 Baths, 1 Car Spaces, 1 Lock Up Garages, 1 Ensuites",2,1,1,1,1
+"Sandville Avenue Broadview SA 5083",290000,2014-03-24,211,70," 2 Beds, 1 Baths, 1 Car Spaces, 1 Lock Up Garages",2,1,1,1,0
+"Sandville Avenue Broadview SA 5083",324500,2015-10-30,396,90," 3 Beds, 1 Baths, 1 Car Spaces, 1 Ensuites",3,1,1,0,1
+"Sandville Avenue Broadview SA 5083",485000,2013-03-20,300,184," 4 Beds, 2 Baths, 2 Car Spaces, 2 Lock Up Garages, 2 Ensuites",4,2,2,2,2
+"Sheldrick Court Broadview SA 5083",387500,2014-10-24,780,100," 3 Beds, 1 Baths, 1 Car Spaces, 1 Lock Up Garages, 1 Ensuites",3,1,1,1,1
+"Tarakan Avenue Broadview SA 5083",1140000,2013-01-07,390,139,"",0,0,0,0,0
+"Tarakan Avenue Broadview SA 5083",1140000,2013-01-07,390,139,"",0,0,0,0,0
+"Tarakan Avenue Broadview SA 5083",530000,2016-04-22,390,175," 3 Beds, 2 Baths, 2 Car Spaces, 1 Lock Up Garages, 2 Ensuites",3,2,2,1,2
+"Tarakan Avenue Broadview SA 5083",550000,2015-07-16,390,175," 3 Beds, 2 Baths, 1 Car Spaces, 1 Lock Up Garages, 2 Ensuites",3,2,1,1,2
+"Tarakan Avenue Broadview SA 5083",9240000,2014-06-25,365,114,"",0,0,0,0,0
+"Tralee Avenue Broadview SA 5083",513000,2013-08-29,380,170," 3 Beds, 2 Baths, 1 Car Spaces, 1 Lock Up Garages, 1 Ensuites",3,2,1,1,1
+"Tralee Avenue Broadview SA 5083",345000,2013-01-11,754,134," 2 Beds, 1 Baths, 2 Car Spaces",2,1,2,0,0
+"Tralee Avenue Broadview SA 5083",335000,2016-03-24,456,117," 3 Beds, 1 Baths, 2 Car Spaces, 2 Lock Up Garages, 1 Ensuites",3,1,2,2,1
+"Tralee Avenue Broadview SA 5083",480000,2015-04-15,754,186," 5 Beds, 2 Baths, 1 Car Spaces, 1 Lock Up Garages, 1 Ensuites",5,2,1,1,1
+"Verco Street Broadview SA 5083",4e+05,2015-04-28,479,119," 3 Beds, 1 Baths, 1 Ensuites",3,1,0,0,1
+"Avenue Broadview SA 5083",350500,2015-04-14,212,121," 3 Beds, 2 Baths, 1 Car Spaces, 1 Ensuites",3,2,1,0,1
+"Watson Avenue Broadview SA 5083",355000,2016-01-15,433,102," 2 Beds, 1 Baths, 1 Car Spaces, 1 Lock Up Garages, 1 Ensuites",2,1,1,1,1
+"Watson Avenue Broadview SA 5083",472500,2016-01-13,703,102," 3 Beds, 1 Baths, 2 Car Spaces, 1 Ensuites",3,1,2,0,1
+"Watson Avenue Broadview SA 5083",445000,2016-02-22,723,102," 3 Beds, 1 Baths, 2 Car Spaces, 2 Lock Up Garages, 1 Ensuites",3,1,2,2,1
+"Watson Avenue Broadview SA 5083",480000,2015-11-09,705,117," 3 Beds, 1 Baths, 1 Car Spaces, 1 Lock Up Garages, 1 Ensuites",3,1,1,1,1
+"Watson Avenue Broadview SA 5083",420000,2016-02-16,831,105," 3 Beds, 1 Baths, 1 Car Spaces, 1 Ensuites",3,1,1,0,1
+"Watson Avenue Broadview SA 5083",350000,2014-11-17,NA,109," 2 Beds, 1 Baths, 2 Car Spaces, 2 Lock Up Garages, 1 Ensuites",2,1,2,2,1
+"Watson Avenue Broadview SA 5083",504500,2013-07-16,329,83," 3 Beds, 1 Baths, 2 Car Spaces",3,1,2,0,0
+"Watson Avenue Broadview SA 5083",504500,2013-07-16,329,83," 3 Beds, 1 Baths, 1 Car Spaces",3,1,1,0,0
+"Watson Avenue Broadview SA 5083",465000,2014-03-03,383,182," 4 Beds, 2 Baths, 1 Lock Up Garages, 1 Ensuites",4,2,0,1,1
+"Watson Avenue Broadview SA 5083",260000,2013-07-10,586,84," 3 Beds, 1 Baths, 2 Car Spaces, 1 Lock Up Garages",3,1,2,1,0
+"Street Broadview SA 5083",450000,2015-02-06,334,134," 2 Ensuites",0,0,0,0,2
+"Wavell Street Broadview SA 5083",483000,2013-12-23,910,232," 7 Beds, 1 Baths, 1 Car Spaces, 1 Lock Up Garages, 1 Ensuites",7,1,1,1,1
+"Wavell Street Broadview SA 5083",509000,2015-04-27,884,112," 3 Beds, 1 Baths, 1 Car Spaces, 1 Lock Up Garages, 1 Ensuites",3,1,1,1,1
+"Wavell Street Broadview SA 5083",365000,2013-02-27,691,91," 3 Beds, 1 Baths, 3 Car Spaces",3,1,3,0,0
+"Wavell Street Broadview SA 5083",335000,2013-10-15,685,150," 3 Beds, 2 Baths, 3 Car Spaces, 3 Lock Up Garages",3,2,3,3,0
+"Wavell Street Broadview SA 5083",477000,2013-01-14,686,154," 3 Beds, 2 Baths, 4 Car Spaces, 2 Lock Up Garages, 2 Ensuites",3,2,4,2,2
+"Wavell Street Broadview SA 5083",365000,2015-04-13,710,87," 2 Beds, 1 Baths, 1 Ensuites",2,1,0,0,1
+"Wavell Street Broadview SA 5083",462000,2016-02-17,832,149," 3 Beds, 1 Baths, 2 Car Spaces, 1 Lock Up Garages, 1 Ensuites",3,1,2,1,1
+"Winton Street Broadview SA 5083",410000,2013-02-05,671,113," 3 Beds, 1 Baths, 2 Lock Up Garages",3,1,0,2,0
+"Winton Street Broadview SA 5083",570000,2015-10-30,813,152," 3 Beds, 1 Baths, 3 Car Spaces, 3 Lock Up Garages, 1 Ensuites",3,1,3,3,1
+"Winton Street Broadview SA 5083",655500,2014-07-26,684,174," 3 Beds, 2 Baths, 1 Car Spaces, 3 Ensuites",3,2,1,0,3
